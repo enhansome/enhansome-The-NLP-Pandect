@@ -25,22 +25,22 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 | 📇 Main Section                                                                                                        | 🗃️ Sub-sections Sample                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [NLP Resources](https://github.com/ivan-bilan/The-NLP-Pandect#) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01          | [Paper Summaries](https://github.com/ivan-bilan/The-NLP-Pandect#papers-and-paper-summaries) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01, [Conference Summaries](https://github.com/ivan-bilan/The-NLP-Pandect#conference-summaries) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01, [NLP Datasets](https://github.com/ivan-bilan/The-NLP-Pandect#nlp-datasets) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| [NLP Podcasts](https://github.com/ivan-bilan/The-NLP-Pandect#-1) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01         | [NLP-only Podcasts](https://github.com/ivan-bilan/The-NLP-Pandect#nlp-only-podcasts) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01, [Podcasts with many NLP Episodes](https://github.com/ivan-bilan/The-NLP-Pandect#many-nlp-episodes) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| [NLP Newsletters](https://github.com/ivan-bilan/The-NLP-Pandect#-2) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01      | -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| [NLP Meetups](https://github.com/ivan-bilan/The-NLP-Pandect#-3) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01          | -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| [NLP YouTube Channels](https://github.com/ivan-bilan/The-NLP-Pandect#-4) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01 | -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| [NLP Benchmarks](https://github.com/ivan-bilan/The-NLP-Pandect#-5) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01       | [General NLU](https://github.com/ivan-bilan/The-NLP-Pandect#general-nlu) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01, [Question Answering](https://github.com/ivan-bilan/The-NLP-Pandect#question-answering) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01, [Multilingual](https://github.com/ivan-bilan/The-NLP-Pandect#multilingual-and-non-english-benchmarks) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| [Research Resources](https://github.com/ivan-bilan/The-NLP-Pandect#-6) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01   | [Resource on Transformer Models](https://github.com/ivan-bilan/The-NLP-Pandect#transformer-based-architectures) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01, [Distillation and Pruning](https://github.com/ivan-bilan/The-NLP-Pandect#distillation-pruning-and-quantization) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01, [Automated Summarization](https://github.com/ivan-bilan/The-NLP-Pandect#automated-summarization) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| [Industry Resources](https://github.com/ivan-bilan/The-NLP-Pandect#-7) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01   | [Best Practices for NLP Systems](https://github.com/ivan-bilan/The-NLP-Pandect#best-practices-for-nlp) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01, [MLOps for NLP](https://github.com/ivan-bilan/The-NLP-Pandect#mlops-for-nlp) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| [Speech Recognition](https://github.com/ivan-bilan/The-NLP-Pandect#-8) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01   | [General Resources](https://github.com/ivan-bilan/The-NLP-Pandect#general-speech-recognition) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01, [Text to Speech](https://github.com/ivan-bilan/The-NLP-Pandect#text-to-speech) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01, [Speech to Text](https://github.com/ivan-bilan/The-NLP-Pandect#speech-to-text) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01, [Datasets](https://github.com/ivan-bilan/The-NLP-Pandect#datasets) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| [Topic Modeling](https://github.com/ivan-bilan/The-NLP-Pandect#-9) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01       | [Blogs](https://github.com/ivan-bilan/The-NLP-Pandect#blogs-1) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01, [Frameworks](https://github.com/ivan-bilan/The-NLP-Pandect#frameworks-for-topic-modeling) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01, [Repositories and Projects](https://github.com/ivan-bilan/The-NLP-Pandect#repositories-1) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| [Keyword Extraction](https://github.com/ivan-bilan/The-NLP-Pandect#-10) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01  | [Text Rank](https://github.com/ivan-bilan/The-NLP-Pandect#text-rank) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01, [Rake](https://github.com/ivan-bilan/The-NLP-Pandect#rake---rapid-automatic-keyword-extraction) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01, [Other Approaches](https://github.com/ivan-bilan/The-NLP-Pandect#other-approaches) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| [Responsible NLP](https://github.com/ivan-bilan/The-NLP-Pandect#-11) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01     | [NLP and ML Interpretability](https://github.com/ivan-bilan/The-NLP-Pandect#nlp-and-ml-interpretability) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01, [Ethics, Bias, and Equality in NLP](https://github.com/ivan-bilan/The-NLP-Pandect#ethics-bias-and-equality-in-nlp) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01, [Adversarial Attacks for NLP](https://github.com/ivan-bilan/The-NLP-Pandect#adversarial-attacks-for-nlp) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| [NLP Frameworks](https://github.com/ivan-bilan/The-NLP-Pandect#-12) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01      | [General Purpose](https://github.com/ivan-bilan/The-NLP-Pandect#general-purpose) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01, [Data Augmentation](https://github.com/ivan-bilan/The-NLP-Pandect#data-augmentation) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01, [Machine Translation](https://github.com/ivan-bilan/The-NLP-Pandect#machine-translation) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01, [Adversarial Attacks](https://github.com/ivan-bilan/The-NLP-Pandect#adversarial-nlp-attacks--behavioral-testing) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01, [Dialog Systems & Speech](https://github.com/ivan-bilan/The-NLP-Pandect#dialog-systems-and-speech) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01, [Entity and String Matching](https://github.com/ivan-bilan/The-NLP-Pandect#entity-and-string-matching) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01, [Non-English Frameworks](https://github.com/ivan-bilan/The-NLP-Pandect#non-english-oriented) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01, [Text Annotation](https://github.com/ivan-bilan/The-NLP-Pandect#text-data-labelling) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01 |
-| [Learning NLP](https://github.com/ivan-bilan/The-NLP-Pandect#-13) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01        | [Courses](https://github.com/ivan-bilan/The-NLP-Pandect#courses) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01, [Books](https://github.com/ivan-bilan/The-NLP-Pandect#books) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01, [Tutorials](https://github.com/ivan-bilan/The-NLP-Pandect#tutorials) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| [NLP Communities](https://github.com/ivan-bilan/The-NLP-Pandect#-14) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01     | -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| [Other NLP Topics](https://github.com/ivan-bilan/The-NLP-Pandect#-15) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01    | [Tokenization](https://github.com/ivan-bilan/The-NLP-Pandect#tokenization) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01, [Data Augmentation](https://github.com/ivan-bilan/The-NLP-Pandect#data-augmentation-and-weak-supervision) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01, [Named Entity Recognition](https://github.com/ivan-bilan/The-NLP-Pandect#named-entity-recognition-ner) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01, [Error Correction](https://github.com/ivan-bilan/The-NLP-Pandect#spell-correction--error-correction) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01, [AutoML/AutoNLP](https://github.com/ivan-bilan/The-NLP-Pandect#automl--autonlp) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01, [Text Generation](https://github.com/ivan-bilan/The-NLP-Pandect#text-generation) ⭐ 2,038 \| 🐛 2 \| 🌐 Python \| 📅 2026-06-01                                                                                                                                                                                                                                                                                                         |
+| [NLP Resources](https://github.com/ivan-bilan/The-NLP-Pandect#) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01          | [Paper Summaries](https://github.com/ivan-bilan/The-NLP-Pandect#papers-and-paper-summaries) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01, [Conference Summaries](https://github.com/ivan-bilan/The-NLP-Pandect#conference-summaries) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01, [NLP Datasets](https://github.com/ivan-bilan/The-NLP-Pandect#nlp-datasets) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| [NLP Podcasts](https://github.com/ivan-bilan/The-NLP-Pandect#-1) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01         | [NLP-only Podcasts](https://github.com/ivan-bilan/The-NLP-Pandect#nlp-only-podcasts) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01, [Podcasts with many NLP Episodes](https://github.com/ivan-bilan/The-NLP-Pandect#many-nlp-episodes) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| [NLP Newsletters](https://github.com/ivan-bilan/The-NLP-Pandect#-2) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01      | -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| [NLP Meetups](https://github.com/ivan-bilan/The-NLP-Pandect#-3) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01          | -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| [NLP YouTube Channels](https://github.com/ivan-bilan/The-NLP-Pandect#-4) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01 | -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| [NLP Benchmarks](https://github.com/ivan-bilan/The-NLP-Pandect#-5) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01       | [General NLU](https://github.com/ivan-bilan/The-NLP-Pandect#general-nlu) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01, [Question Answering](https://github.com/ivan-bilan/The-NLP-Pandect#question-answering) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01, [Multilingual](https://github.com/ivan-bilan/The-NLP-Pandect#multilingual-and-non-english-benchmarks) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| [Research Resources](https://github.com/ivan-bilan/The-NLP-Pandect#-6) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01   | [Resource on Transformer Models](https://github.com/ivan-bilan/The-NLP-Pandect#transformer-based-architectures) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01, [Distillation and Pruning](https://github.com/ivan-bilan/The-NLP-Pandect#distillation-pruning-and-quantization) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01, [Automated Summarization](https://github.com/ivan-bilan/The-NLP-Pandect#automated-summarization) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| [Industry Resources](https://github.com/ivan-bilan/The-NLP-Pandect#-7) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01   | [Best Practices for NLP Systems](https://github.com/ivan-bilan/The-NLP-Pandect#best-practices-for-nlp) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01, [MLOps for NLP](https://github.com/ivan-bilan/The-NLP-Pandect#mlops-for-nlp) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| [Speech Recognition](https://github.com/ivan-bilan/The-NLP-Pandect#-8) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01   | [General Resources](https://github.com/ivan-bilan/The-NLP-Pandect#general-speech-recognition) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01, [Text to Speech](https://github.com/ivan-bilan/The-NLP-Pandect#text-to-speech) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01, [Speech to Text](https://github.com/ivan-bilan/The-NLP-Pandect#speech-to-text) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01, [Datasets](https://github.com/ivan-bilan/The-NLP-Pandect#datasets) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| [Topic Modeling](https://github.com/ivan-bilan/The-NLP-Pandect#-9) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01       | [Blogs](https://github.com/ivan-bilan/The-NLP-Pandect#blogs-1) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01, [Frameworks](https://github.com/ivan-bilan/The-NLP-Pandect#frameworks-for-topic-modeling) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01, [Repositories and Projects](https://github.com/ivan-bilan/The-NLP-Pandect#repositories-1) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| [Keyword Extraction](https://github.com/ivan-bilan/The-NLP-Pandect#-10) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01  | [Text Rank](https://github.com/ivan-bilan/The-NLP-Pandect#text-rank) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01, [Rake](https://github.com/ivan-bilan/The-NLP-Pandect#rake---rapid-automatic-keyword-extraction) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01, [Other Approaches](https://github.com/ivan-bilan/The-NLP-Pandect#other-approaches) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| [Responsible NLP](https://github.com/ivan-bilan/The-NLP-Pandect#-11) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01     | [NLP and ML Interpretability](https://github.com/ivan-bilan/The-NLP-Pandect#nlp-and-ml-interpretability) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01, [Ethics, Bias, and Equality in NLP](https://github.com/ivan-bilan/The-NLP-Pandect#ethics-bias-and-equality-in-nlp) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01, [Adversarial Attacks for NLP](https://github.com/ivan-bilan/The-NLP-Pandect#adversarial-attacks-for-nlp) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| [NLP Frameworks](https://github.com/ivan-bilan/The-NLP-Pandect#-12) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01      | [General Purpose](https://github.com/ivan-bilan/The-NLP-Pandect#general-purpose) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01, [Data Augmentation](https://github.com/ivan-bilan/The-NLP-Pandect#data-augmentation) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01, [Machine Translation](https://github.com/ivan-bilan/The-NLP-Pandect#machine-translation) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01, [Adversarial Attacks](https://github.com/ivan-bilan/The-NLP-Pandect#adversarial-nlp-attacks--behavioral-testing) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01, [Dialog Systems & Speech](https://github.com/ivan-bilan/The-NLP-Pandect#dialog-systems-and-speech) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01, [Entity and String Matching](https://github.com/ivan-bilan/The-NLP-Pandect#entity-and-string-matching) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01, [Non-English Frameworks](https://github.com/ivan-bilan/The-NLP-Pandect#non-english-oriented) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01, [Text Annotation](https://github.com/ivan-bilan/The-NLP-Pandect#text-data-labelling) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01 |
+| [Learning NLP](https://github.com/ivan-bilan/The-NLP-Pandect#-13) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01        | [Courses](https://github.com/ivan-bilan/The-NLP-Pandect#courses) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01, [Books](https://github.com/ivan-bilan/The-NLP-Pandect#books) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01, [Tutorials](https://github.com/ivan-bilan/The-NLP-Pandect#tutorials) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| [NLP Communities](https://github.com/ivan-bilan/The-NLP-Pandect#-14) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01     | -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| [Other NLP Topics](https://github.com/ivan-bilan/The-NLP-Pandect#-15) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01    | [Tokenization](https://github.com/ivan-bilan/The-NLP-Pandect#tokenization) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01, [Data Augmentation](https://github.com/ivan-bilan/The-NLP-Pandect#data-augmentation-and-weak-supervision) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01, [Named Entity Recognition](https://github.com/ivan-bilan/The-NLP-Pandect#named-entity-recognition-ner) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01, [Error Correction](https://github.com/ivan-bilan/The-NLP-Pandect#spell-correction--error-correction) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01, [AutoML/AutoNLP](https://github.com/ivan-bilan/The-NLP-Pandect#automl--autonlp) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01, [Text Generation](https://github.com/ivan-bilan/The-NLP-Pandect#text-generation) ⭐ 2,038 \| 🐛 3 \| 🌐 Python \| 📅 2026-06-01                                                                                                                                                                                                                                                                                                         |
 
 ## ![The-NLP-Resources](./Resources/Images/pandect_resources.png)
 
@@ -49,11 +49,11 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 #### Compendiums and awesome lists on the topic of NLP:
 
-* ⭐ [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 136,092 | 🐛 7 | 🌐 Python | 📅 2026-09-02 \[GitHub, 112502 stars]
-* ⭐ [Awesome NLP](https://github.com/keon/awesome-nlp) ⭐ 18,966 | 🐛 17 | 📅 2026-08-18 by [keon](https://github.com/keon) \[GitHub, 18674 stars]
+* ⭐ [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 136,274 | 🐛 9 | 🌐 Python | 📅 2026-09-02 \[GitHub, 112502 stars]
+* ⭐ [Awesome NLP](https://github.com/keon/awesome-nlp) ⭐ 18,965 | 🐛 17 | 📅 2026-08-18 by [keon](https://github.com/keon) \[GitHub, 18674 stars]
 * ⭐ [Speech and Natural Language Processing Awesome List](https://github.com/edobashira/speech-language-processing#readme) ⭐ 2,224 | 🐛 19 | 📅 2019-04-02 by [elaboshira](https://github.com/edobashira) \[GitHub, 2224 stars]
 * ⭐ [Awesome AI/ML/DL - NLP Section](https://github.com/neomatrix369/awesome-ai-ml-dl/tree/master/natural-language-processing#natural-language-processing-nlp) ⭐ 1,713 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2026-03-09 \[GitHub, 1668 stars]
-* ⭐ [Awesome Deep Learning for Natural Language Processing (NLP)](https://github.com/brianspiering/awesome-dl4nlp) ⭐ 1,311 | 🐛 2 | 📅 2026-01-24 \[GitHub, 1307 stars]
+* ⭐ [Awesome Deep Learning for Natural Language Processing (NLP)](https://github.com/brianspiering/awesome-dl4nlp) ⭐ 1,312 | 🐛 2 | 📅 2026-01-24 \[GitHub, 1307 stars]
 * ⭐ [Text Mining and Natural Language Processing Resources](https://github.com/stepthom/text_mining_resources) ⭐ 599 | 🐛 0 | 📅 2023-02-09 by [stepthom](https://github.com/stepthom) \[GitHub, 598 stars]
 * 🗂️ [The NLP Index](https://index.quantumstat.com) - Searchable Index of NLP Papers by Quantum Stat / NLP Cypher
 * 🗂️ [Brainsources for #NLP enthusiasts](https://www.notion.so/634eba1a37d34e2baec1bb574a8a5482) by [Philip Vollet](https://www.linkedin.com/in/philipvollet/)
@@ -86,15 +86,15 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 #### NLP Datasets:
 
-* ⭐ [Datasets](https://github.com/huggingface/datasets) ⭐ 21,897 | 🐛 1,343 | 🌐 Python | 📅 2026-09-04 by Huggingface \[GitHub, 21559 stars]
-* ⭐ [NLP Datasets](https://github.com/niderhoff/nlp-datasets) ⭐ 5,996 | 🐛 12 | 📅 2023-02-15 by [niderhoff](https://github.com/niderhoff) \[GitHub, 5982 stars]
+* ⭐ [Datasets](https://github.com/huggingface/datasets) ⭐ 21,915 | 🐛 1,346 | 🌐 Python | 📅 2026-09-04 by Huggingface \[GitHub, 21559 stars]
+* ⭐ [NLP Datasets](https://github.com/niderhoff/nlp-datasets) ⭐ 5,997 | 🐛 12 | 📅 2023-02-15 by [niderhoff](https://github.com/niderhoff) \[GitHub, 5982 stars]
 * ⭐ [MLDoc](https://github.com/facebookresearch/MLDoc) ⚠️ Archived - Corpus for Multilingual Document Classification in Eight Language \[GitHub, 153 stars]
 * 🗂️ [Big Bad NLP Database](https://datasets.quantumstat.com)
 * ⭐ [UWA Unambiguous Word Annotations](http://danlou.github.io/uwa/) - Word Sense Disambiguation Dataset
 
 #### Word and Sentence embeddings:
 
-* ⭐ [FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding/tree/master) ⭐ 12,131 | 🐛 908 | 🌐 Python | 📅 2026-08-24 - Retrieval and Retrieval-augmented LLMs \[GitHub, 11753 stars]
+* ⭐ [FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding/tree/master) ⭐ 12,136 | 🐛 908 | 🌐 Python | 📅 2026-08-24 - Retrieval and Retrieval-augmented LLMs \[GitHub, 11753 stars]
 * ⭐ [Awesome list of Sentence Embeddings](https://github.com/Separius/awesome-sentence-embedding) ⚠️ Archived by [Separius](https://github.com/Separius) \[GitHub, 2289 stars]
 * ⭐ [Awesome Embedding Models](https://github.com/Hironsan/awesome-embedding-models) ⭐ 1,851 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2019-04-07 by [Hironsan](https://github.com/Hironsan) \[GitHub, 1840 stars]
 * ⭐ [Awesome BERT](https://github.com/Jiakui/awesome-bert) ⭐ 1,839 | 🐛 5 | 📅 2021-03-21 by [Jiakui](https://github.com/Jiakui) \[GitHub, 1842 stars]
@@ -138,7 +138,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 ## ![The-NLP-Podcasts](./Resources/Images/pandect_lyra.png)
 
-[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-NLP-Pandect#table-of-contents) ⭐ 2,038 | 🐛 2 | 🌐 Python | 📅 2026-06-01
+[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-NLP-Pandect#table-of-contents) ⭐ 2,038 | 🐛 3 | 🌐 Python | 📅 2026-06-01
 
 #### NLP-only podcasts
 
@@ -190,7 +190,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 ## ![The-NLP-Benchmarks](./Resources/Images/pandect_benchmark.png)
 
-[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-NLP-Pandect#table-of-contents) ⭐ 2,038 | 🐛 2 | 🌐 Python | 📅 2026-06-01
+[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-NLP-Pandect#table-of-contents) ⭐ 2,038 | 🐛 3 | 🌐 Python | 📅 2026-06-01
 
 ### General NLU
 
@@ -209,7 +209,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 ### Question Answering
 
 * ⭐ [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) - Stanford Question Answering Dataset (SQuAD)
-* ⭐ [XQuad](https://github.com/deepmind/xquad) ⭐ 212 | 🐛 3 | 📅 2021-11-12 - XQuAD (Cross-lingual Question Answering Dataset) for cross-lingual question answering
+* ⭐ [XQuad](https://github.com/deepmind/xquad) ⭐ 213 | 🐛 3 | 📅 2021-11-12 - XQuAD (Cross-lingual Question Answering Dataset) for cross-lingual question answering
 * ⭐ [GrailQA](https://dki-lab.github.io/GrailQA/) - Strongly Generalizable Question Answering (GrailQA)
 * ⭐ [CSQA](https://amritasaha1812.github.io/CSQA/) - Complex Sequential Question Answering
 
@@ -241,7 +241,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 ## ![The-NLP-Research](./Resources/Images/pandect_quill.png)
 
-[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-NLP-Pandect#table-of-contents) ⭐ 2,038 | 🐛 2 | 🌐 Python | 📅 2026-06-01
+[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-NLP-Pandect#table-of-contents) ⭐ 2,038 | 🐛 3 | 🌐 Python | 📅 2026-06-01
 
 ### General
 
@@ -267,7 +267,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 #### Cross-lingual Word and Sentence Embeddings
 
-* ⭐ [sentence-transformers](https://github.com/UKPLab/sentence-transformers) ⭐ 19,073 | 🐛 1,291 | 🌐 Python | 📅 2026-09-04 - Multilingual Sentence & Image Embeddings with BERT \[GitHub, 18765 stars]
+* ⭐ [sentence-transformers](https://github.com/UKPLab/sentence-transformers) ⭐ 19,073 | 🐛 1,292 | 🌐 Python | 📅 2026-09-04 - Multilingual Sentence & Image Embeddings with BERT \[GitHub, 18765 stars]
 * ⭐ [vecmap](https://github.com/artetxem/vecmap) ⭐ 654 | 🐛 15 | 🌐 Python | 📅 2023-04-22 - VecMap (cross-lingual word embedding mappings) \[GitHub, 654 stars]
 
 #### Byte Pair Encoding
@@ -412,14 +412,14 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 ### Small LLMs
 
-* [smollm](https://github.com/huggingface/smollm/blob/main/text/README.md) ⭐ 3,891 | 🐛 58 | 🌐 Python | 📅 2026-05-26 - 3B parameter language model designed to push the boundaries of small models \[GitHub, 3797 stars]
+* [smollm](https://github.com/huggingface/smollm/blob/main/text/README.md) ⭐ 3,890 | 🐛 58 | 🌐 Python | 📅 2026-05-26 - 3B parameter language model designed to push the boundaries of small models \[GitHub, 3797 stars]
 
 ## ![The-NLP-Industry](./Resources/Images/pandect_industry.png)
 
 > **Note**
 > Section keywords: best practices, MLOps
 
-[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-NLP-Pandect#table-of-contents) ⭐ 2,038 | 🐛 2 | 🌐 Python | 📅 2026-06-01
+[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-NLP-Pandect#table-of-contents) ⭐ 2,038 | 🐛 3 | 🌐 Python | 📅 2026-06-01
 
 ### Best Practices for building NLP Projects
 
@@ -452,13 +452,13 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 #### MLOps Compilations & Awesome Lists
 
-* ⭐ [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) ⭐ 23,782 | 🐛 55 | 📅 2026-09-03 \[GitHub, 23609 stars]
+* ⭐ [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) ⭐ 23,785 | 🐛 55 | 📅 2026-09-03 \[GitHub, 23609 stars]
 * ⭐ [awesome-mlops](https://github.com/visenger/awesome-mlops) ⭐ 14,186 | 🐛 43 | 📅 2024-11-21 \[GitHub, 13923 stars]
 
 #### Running LLMs locally or self-hosted
 
-* ⭐ [llama.cpp](https://github.com/ggml-org/llama.cpp) ⭐ 127,081 | 🐛 2,409 | 🌐 C++ | 📅 2026-09-05 \[GitHub, 114160 stars]
-* ⭐ [vLLM](https://github.com/vllm-project/vllm) ⭐ 90,993 | 🐛 7,545 | 🌐 Python | 📅 2026-09-05 \[GitHub, 81616 stars]
+* ⭐ [llama.cpp](https://github.com/ggml-org/llama.cpp) ⭐ 127,183 | 🐛 2,420 | 🌐 C++ | 📅 2026-09-06 \[GitHub, 114160 stars]
+* ⭐ [vLLM](https://github.com/vllm-project/vllm) ⭐ 91,051 | 🐛 7,613 | 🌐 Python | 📅 2026-09-06 \[GitHub, 81616 stars]
 * 🔱 [ollama](https://ollama.com/) \[Free Local & Paid Cloud Service]
 
 #### Reading Material
@@ -489,15 +489,15 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 #### Data Versioning
 
-* ⭐ [DVC](https://dvc.org/) - Data Version Control (DVC) tracks ML models and data sets \[Free and Open Source] [Link to GitHub](https://github.com/iterative/dvc) ⭐ 15,860 | 🐛 203 | 🌐 Python | 📅 2026-08-31
+* ⭐ [DVC](https://dvc.org/) - Data Version Control (DVC) tracks ML models and data sets \[Free and Open Source] [Link to GitHub](https://github.com/iterative/dvc) ⭐ 15,862 | 🐛 203 | 🌐 Python | 📅 2026-08-31
 * 🔱 [Weights & Biases](https://wandb.ai/site) - tools for experiment tracking and dataset versioning \[Paid Service]
 
 #### Experiment Tracking
 
-* ⭐ [mlflow](https://mlflow.org/) - open source platform for the machine learning lifecycle \[Free and Open Source] [Link to GitHub](https://github.com/mlflow/mlflow/) ⭐ 27,817 | 🐛 2,073 | 🌐 Python | 📅 2026-09-05
-* ⭐ [Optuna](https://github.com/optuna/optuna) ⭐ 14,745 | 🐛 21 | 🌐 Python | 📅 2026-09-04 - hyperparameter optimization framework \[GitHub, 14280 stars]
-* ⭐ [Metaflow](https://github.com/Netflix/metaflow) ⭐ 10,255 | 🐛 491 | 🌐 Python | 📅 2026-09-02 - human-friendly Python/R library that helps scientists and engineers build and manage real-life data science projects \[GitHub, 10111 stars]
-* ⭐ [Clear ML](https://clear.ml/) - experiment, orchestrate, deploy, and build data stores, all in one place \[Free and Open Source] [Link to GitHub](https://github.com/allegroai/clearml/) ⭐ 6,857 | 🐛 527 | 🌐 Python | 📅 2026-09-02
+* ⭐ [mlflow](https://mlflow.org/) - open source platform for the machine learning lifecycle \[Free and Open Source] [Link to GitHub](https://github.com/mlflow/mlflow/) ⭐ 27,822 | 🐛 2,071 | 🌐 Python | 📅 2026-09-06
+* ⭐ [Optuna](https://github.com/optuna/optuna) ⭐ 14,747 | 🐛 21 | 🌐 Python | 📅 2026-09-04 - hyperparameter optimization framework \[GitHub, 14280 stars]
+* ⭐ [Metaflow](https://github.com/Netflix/metaflow) ⭐ 10,255 | 🐛 492 | 🌐 Python | 📅 2026-09-02 - human-friendly Python/R library that helps scientists and engineers build and manage real-life data science projects \[GitHub, 10111 stars]
+* ⭐ [Clear ML](https://clear.ml/) - experiment, orchestrate, deploy, and build data stores, all in one place \[Free and Open Source] [Link to GitHub](https://github.com/allegroai/clearml/) ⭐ 6,858 | 🐛 527 | 🌐 Python | 📅 2026-09-02
 * 🔱 [Weights & Biases](https://wandb.ai/site) - tools for experiment tracking and dataset versioning \[Paid Service]
 * 🔱 [Neptune AI](https://neptune.ai/) - experiment tracking and model registry built for research and production teams \[Paid Service]
 * 🔱 [Comet ML](https://www.comet.ml/site/) - enables data scientists and teams to track, compare, explain and optimize experiments and models \[Paid Service]
@@ -505,8 +505,8 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 ##### Model Registry
 
-* ⭐ [mlflow](https://mlflow.org/) - open source platform for the machine learning lifecycle \[Free and Open Source] [Link to GitHub](https://github.com/mlflow/mlflow/) ⭐ 27,817 | 🐛 2,073 | 🌐 Python | 📅 2026-09-05
-* ⭐ [DVC](https://dvc.org/) - Data Version Control (DVC) tracks ML models and data sets \[Free and Open Source] [Link to GitHub](https://github.com/iterative/dvc) ⭐ 15,860 | 🐛 203 | 🌐 Python | 📅 2026-08-31
+* ⭐ [mlflow](https://mlflow.org/) - open source platform for the machine learning lifecycle \[Free and Open Source] [Link to GitHub](https://github.com/mlflow/mlflow/) ⭐ 27,822 | 🐛 2,071 | 🌐 Python | 📅 2026-09-06
+* ⭐ [DVC](https://dvc.org/) - Data Version Control (DVC) tracks ML models and data sets \[Free and Open Source] [Link to GitHub](https://github.com/iterative/dvc) ⭐ 15,862 | 🐛 203 | 🌐 Python | 📅 2026-08-31
 * ⭐ [ModelDB](https://github.com/VertaAI/modeldb) ⭐ 1,749 | 🐛 194 | 🌐 Java | 📅 2024-07-23 - open-source system for Machine Learning model versioning, metadata, and experiment management \[GitHub, 1747 stars]
 * 🔱 [Neptune AI](https://neptune.ai/) - experiment tracking and model registry built for research and production teams \[Paid Service]
 * 🔱 [Valohai](https://valohai.com/) - End-to-end ML pipelines \[Paid Service]
@@ -516,18 +516,18 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 #### Automated Testing and Behavioral Testing
 
-* ⭐ [Great Expectations](https://github.com/great-expectations/great_expectations) ⭐ 11,769 | 🐛 41 | 🌐 Python | 📅 2026-09-04 - Write tests for your data \[GitHub, 11532 stars]
+* ⭐ [Great Expectations](https://github.com/great-expectations/great_expectations) ⭐ 11,770 | 🐛 42 | 🌐 Python | 📅 2026-09-04 - Write tests for your data \[GitHub, 11532 stars]
 * ⭐ [Deepchecks](https://github.com/deepchecks/deepchecks) ⭐ 4,051 | 🐛 267 | 🌐 Python | 📅 2025-12-28 - Python package for comprehensively validating your machine learning models and data \[GitHub, 4017 stars]
-* ⭐ [TextAttack](https://github.com/QData/TextAttack) ⭐ 3,473 | 🐛 18 | 🌐 Python | 📅 2026-08-15 - framework for adversarial attacks, data augmentation, and model training in NLP \[GitHub, 3427 stars]
-* ⭐ [CheckList](https://github.com/marcotcr/checklist) ⭐ 2,050 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2024-01-09 - Beyond Accuracy: Behavioral Testing of NLP models \[GitHub, 2050 stars]
+* ⭐ [TextAttack](https://github.com/QData/TextAttack) ⭐ 3,474 | 🐛 18 | 🌐 Python | 📅 2026-08-15 - framework for adversarial attacks, data augmentation, and model training in NLP \[GitHub, 3427 stars]
+* ⭐ [CheckList](https://github.com/marcotcr/checklist) ⭐ 2,049 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2024-01-09 - Beyond Accuracy: Behavioral Testing of NLP models \[GitHub, 2050 stars]
 * ⭐ [WildNLP](https://github.com/MI2DataLab/WildNLP) ⭐ 76 | 🐛 4 | 🌐 Python | 📅 2023-05-22 - Corrupt an input text to test NLP models' robustness \[GitHub, 76 stars]
 
 #### Model Deployability and Serving
 
-* ⭐ [mlflow](https://mlflow.org/) - open source platform for the machine learning lifecycle \[Free and Open Source] [Link to GitHub](https://github.com/mlflow/mlflow/) ⭐ 27,817 | 🐛 2,073 | 🌐 Python | 📅 2026-09-05
-* ⭐ [Metaflow](https://github.com/Netflix/metaflow) ⭐ 10,255 | 🐛 491 | 🌐 Python | 📅 2026-09-02 - human-friendly Python/R library that helps scientists and engineers build and manage real-life data science projects \[GitHub, 10111 stars]
-* ⭐ [flyte](https://github.com/flyteorg/flyte) ⭐ 7,393 | 🐛 178 | 🌐 Go | 📅 2026-09-04 - workflow automation platform for complex, mission-critical data and ML processes at scale \[GitHub, 7056 stars]
-* ⭐ [KFServing](https://github.com/kubeflow/kfserving) ⭐ 5,859 | 🐛 206 | 🌐 Go | 📅 2026-09-04 - Serverless Inferencing on Kubernetes \[GitHub, 5534 stars]
+* ⭐ [mlflow](https://mlflow.org/) - open source platform for the machine learning lifecycle \[Free and Open Source] [Link to GitHub](https://github.com/mlflow/mlflow/) ⭐ 27,822 | 🐛 2,071 | 🌐 Python | 📅 2026-09-06
+* ⭐ [Metaflow](https://github.com/Netflix/metaflow) ⭐ 10,255 | 🐛 492 | 🌐 Python | 📅 2026-09-02 - human-friendly Python/R library that helps scientists and engineers build and manage real-life data science projects \[GitHub, 10111 stars]
+* ⭐ [flyte](https://github.com/flyteorg/flyte) ⭐ 7,405 | 🐛 179 | 🌐 Go | 📅 2026-09-04 - workflow automation platform for complex, mission-critical data and ML processes at scale \[GitHub, 7056 stars]
+* ⭐ [KFServing](https://github.com/kubeflow/kfserving) ⭐ 5,859 | 🐛 203 | 🌐 Go | 📅 2026-09-04 - Serverless Inferencing on Kubernetes \[GitHub, 5534 stars]
 * ⭐ [TorchServe](https://github.com/pytorch/serve) ⚠️ Archived - flexible and easy to use tool for serving PyTorch models \[GitHub, 4359 stars]
 * ⭐ [MLRun](https://github.com/mlrun/mlrun) ⭐ 1,694 | 🐛 113 | 🌐 Python | 📅 2026-09-03 - Machine Learning automation and tracking \[GitHub, 1670 stars]
 * ⭐ [End2End Serverless Transformers On AWS Lambda](https://github.com/bhavsarpratik/serverless-transformers-on-aws-lambda) ⭐ 122 | 🐛 5 | 🌐 Python | 📅 2021-08-20 \[GitHub, 122 stars]
@@ -560,7 +560,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 ##### General
 
-* ⭐ [Rubrix](https://github.com/recognai/rubrix) ⭐ 5,096 | 🐛 31 | 🌐 Python | 📅 2026-08-31 - open-source tool for exploring and iterating on data for artificial intelligence projects \[GitHub, 4992 stars]
+* ⭐ [Rubrix](https://github.com/recognai/rubrix) ⭐ 5,097 | 🐛 32 | 🌐 Python | 📅 2026-08-31 - open-source tool for exploring and iterating on data for artificial intelligence projects \[GitHub, 4992 stars]
 * ⭐ [whylogs](https://github.com/whylabs/whylogs) ⭐ 2,831 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2025-01-10 - open source standard for data and ML logging \[GitHub, 2819 stars]
 * ⭐ [MLRun](https://github.com/mlrun/mlrun) ⭐ 1,694 | 🐛 113 | 🌐 Python | 📅 2026-09-03 - Machine Learning automation and tracking \[GitHub, 1670 stars]
 * ⭐ [Arize AI](https://arize.com/) - embedding drift monitoring for NLP models
@@ -570,7 +570,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 ##### Model Centric
 
-* ⭐ [Evidently AI](https://evidentlyai.com/) - tools to analyze and monitor machine learning models \[Free and Open Source] [Link to GitHub](https://github.com/evidentlyai/evidently) ⭐ 7,890 | 🐛 302 | 🌐 Jupyter Notebook | 📅 2026-08-31
+* ⭐ [Evidently AI](https://evidentlyai.com/) - tools to analyze and monitor machine learning models \[Free and Open Source] [Link to GitHub](https://github.com/evidentlyai/evidently) ⭐ 7,892 | 🐛 302 | 🌐 Jupyter Notebook | 📅 2026-08-31
 * 🔱 [Algorithmia](https://algorithmia.com/) - minimize risk with advanced reporting and enterprise-grade security and governance across all data, models, and infrastructure \[Paid Service]
 * 🔱 [Dataiku](https://www.dataiku.com/) - dataiku is for teams who want to deliver advanced analytics using the latest techniques at big data scale \[Paid Service]
 * 🔱 [Fiddler](https://www.fiddler.ai/) - All-in-one ML and LLM observability. Fastest LLM Guardrails.  \[Paid Service]
@@ -589,7 +589,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 #### Feature Stores
 
-* ⭐ [FEAST](https://github.com/feast-dev/feast) ⭐ 7,251 | 🐛 427 | 🌐 Python | 📅 2026-09-02 - open source feature store for machine learning [Website](https://feast.dev/) \[GitHub, 7063 stars]
+* ⭐ [FEAST](https://github.com/feast-dev/feast) ⭐ 7,251 | 🐛 428 | 🌐 Python | 📅 2026-09-02 - open source feature store for machine learning [Website](https://feast.dev/) \[GitHub, 7063 stars]
 * 🔱 [Tecton](https://www.tecton.ai//) - enterprise feature store for machine learning \[Paid Service]
 * 🔱 [Hopsworks Feature Store](https://www.hopsworks.ai/feature-store) - data management system for managing machine learning features \[Paid Service]
 
@@ -601,16 +601,16 @@ Additionally, there are two more components that are not as prevalent for NLP an
 #### MLOps Frameworks
 
 * ⭐ [kedro](https://github.com/quantumblacklabs/kedro) ⭐ 10,989 | 🐛 139 | 🌐 Python | 📅 2026-09-04 - Python framework for creating reproducible, maintainable and modular data science code \[GitHub, 10867 stars]
-* ⭐ [Metaflow](https://github.com/Netflix/metaflow) ⭐ 10,255 | 🐛 491 | 🌐 Python | 📅 2026-09-02 - human-friendly Python/R library that helps scientists and engineers build and manage real-life data science projects \[GitHub, 10111 stars]
-* ⭐ [ZenML](https://github.com/maiot-io/zenml) ⭐ 5,575 | 🐛 162 | 🌐 Python | 📅 2026-09-04 - MLOps framework to create reproducible ML pipelines for production machine learning \[GitHub, 5429 stars]
-* ⭐ [Seldon Core](https://github.com/SeldonIO/seldon-core) ⭐ 4,779 | 🐛 396 | 🌐 Go | 📅 2026-03-23 - MLOps framework to package, deploy, monitor and manage thousands of production machine learning models \[GitHub, 4752 stars]
+* ⭐ [Metaflow](https://github.com/Netflix/metaflow) ⭐ 10,255 | 🐛 492 | 🌐 Python | 📅 2026-09-02 - human-friendly Python/R library that helps scientists and engineers build and manage real-life data science projects \[GitHub, 10111 stars]
+* ⭐ [ZenML](https://github.com/maiot-io/zenml) ⭐ 5,576 | 🐛 163 | 🌐 Python | 📅 2026-09-05 - MLOps framework to create reproducible ML pipelines for production machine learning \[GitHub, 5429 stars]
+* ⭐ [Seldon Core](https://github.com/SeldonIO/seldon-core) ⭐ 4,778 | 🐛 396 | 🌐 Go | 📅 2026-03-23 - MLOps framework to package, deploy, monitor and manage thousands of production machine learning models \[GitHub, 4752 stars]
 * ⭐ [Diffgram](https://github.com/diffgram/diffgram) ⭐ 1,909 | 🐛 489 | 🌐 Python | 📅 2026-06-22 - Complete training data platform for machine learning delivered as a single application \[GitHub, 1904 stars]
 * 🔱 [Google Vertex AI](https://cloud.google.com/vertex-ai) - build, deploy, and scale ML models faster, with pre-trained and custom tooling within a unified AI platform \[Paid Service]
 * 🔱 [Continual.ai](https://www.continual.ai/) - build, deploy, and operationalize ML models easier and faster with a declarative interface on cloud data warehouses like Snowflake, BigQuery, RedShift, and Databricks. \[Paid Service]
 
 ### Transformer-based Architectures
 
-[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-NLP-Pandect#table-of-contents) ⭐ 2,038 | 🐛 2 | 🌐 Python | 📅 2026-06-01
+[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-NLP-Pandect#table-of-contents) ⭐ 2,038 | 🐛 3 | 🌐 Python | 📅 2026-06-01
 
 #### General
 
@@ -654,13 +654,13 @@ Additionally, there are two more components that are not as prevalent for NLP an
 > **Note**
 > Section keywords: speech recognition
 
-[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-NLP-Pandect#table-of-contents) ⭐ 2,038 | 🐛 2 | 🌐 Python | 📅 2026-06-01
+[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-NLP-Pandect#table-of-contents) ⭐ 2,038 | 🐛 3 | 🌐 Python | 📅 2026-06-01
 
 ### General Speech Recognition
 
 * ⭐ [DeepSpeech](https://github.com/mozilla/DeepSpeech) ⚠️ Archived - Baidu's DeepSpeech architecture \[GitHub, 26750 stars]
-* ⭐ [kaldi](https://github.com/kaldi-asr/kaldi) ⭐ 15,476 | 🐛 261 | 🌐 Shell | 📅 2025-09-22 - Kaldi is a toolkit for speech recognition \[GitHub, 15401 stars]
-* ⭐ [ESPnet](https://github.com/espnet/espnet) ⭐ 9,947 | 🐛 52 | 🌐 Python | 📅 2026-09-04 - End-to-End Speech Processing Toolkit \[GitHub, 9850 stars]
+* ⭐ [kaldi](https://github.com/kaldi-asr/kaldi) ⭐ 15,475 | 🐛 261 | 🌐 Shell | 📅 2025-09-22 - Kaldi is a toolkit for speech recognition \[GitHub, 15401 stars]
+* ⭐ [ESPnet](https://github.com/espnet/espnet) ⭐ 9,946 | 🐛 52 | 🌐 Python | 📅 2026-09-04 - End-to-End Speech Processing Toolkit \[GitHub, 9850 stars]
 * ⭐ [wav2letter](https://github.com/facebookresearch/wav2letter) ⭐ 6,437 | 🐛 107 | 🌐 C++ | 📅 2026-08-28 - Automatic Speech Recognition Toolkit \[GitHub, 6444 stars]
 * ⭐ [awesome-kaldi](https://github.com/YoavRamon/awesome-kaldi) ⭐ 535 | 🐛 2 | 📅 2022-02-09 - resources for using Kaldi \[GitHub, 538 stars]
 * 📙 [Acoustic Word Embeddings](https://medium.com/@maobedkova/acoustic-word-embeddings-fc3f1a8f0519) by Maria Obedkova \[Blog, 2020]
@@ -668,14 +668,14 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 ### Text to Speech / Speech Generation
 
-* ⭐ [TTS](https://github.com/coqui-ai/TTS) ⭐ 45,982 | 🐛 2 | 🌐 Python | 📅 2024-08-16 - a deep learning toolkit for Text-to-Speech \[GitHub, 45454 stars]
+* ⭐ [TTS](https://github.com/coqui-ai/TTS) ⭐ 45,987 | 🐛 2 | 🌐 Python | 📅 2024-08-16 - a deep learning toolkit for Text-to-Speech \[GitHub, 45454 stars]
 * ⭐ [FastSpeech](https://github.com/xcmyz/FastSpeech) ⭐ 884 | 🐛 14 | 🌐 Python | 📅 2023-07-06 - The Implementation of FastSpeech based on pytorch \[GitHub, 880 stars]
 * 🔱 [NotebookLM](https://notebooklm.google/) - Google Gemini powered personal assistant / podcast generator
 
 ### Speech to Text
 
-* ⭐ [whisper](https://github.com/openai/whisper) ⭐ 108,456 | 🐛 142 | 🌐 Python | 📅 2026-08-31 - Robust Speech Recognition via Large-Scale Weak Supervision, by OpenAI \[GitHub, 101153 stars]
-* ⭐ [vibe](https://github.com/thewh1teagle/vibe) ⭐ 7,321 | 🐛 138 | 🌐 TypeScript | 📅 2026-09-05 - GUI tool to work with whisper, multilingual and cuda support included \[GitHub, 6317 stars]
+* ⭐ [whisper](https://github.com/openai/whisper) ⭐ 108,544 | 🐛 145 | 🌐 Python | 📅 2026-08-31 - Robust Speech Recognition via Large-Scale Weak Supervision, by OpenAI \[GitHub, 101153 stars]
+* ⭐ [vibe](https://github.com/thewh1teagle/vibe) ⭐ 7,335 | 🐛 141 | 🌐 TypeScript | 📅 2026-09-05 - GUI tool to work with whisper, multilingual and cuda support included \[GitHub, 6317 stars]
 
 ### Datasets
 
@@ -686,7 +686,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 > **Note**
 > Section keywords: topic modeling
 
-[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-NLP-Pandect#table-of-contents) ⭐ 2,038 | 🐛 2 | 🌐 Python | 📅 2026-06-01
+[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-NLP-Pandect#table-of-contents) ⭐ 2,038 | 🐛 3 | 🌐 Python | 📅 2026-06-01
 
 ### Blogs
 
@@ -695,14 +695,14 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 ### Frameworks for Topic Modeling
 
-* ⭐ [gensim](https://github.com/RaRe-Technologies/gensim) ⭐ 16,480 | 🐛 439 | 🌐 Python | 📅 2025-11-01 - framework for topic modeling \[GitHub, 16421 stars]
+* ⭐ [gensim](https://github.com/RaRe-Technologies/gensim) ⭐ 16,479 | 🐛 439 | 🌐 Python | 📅 2025-11-01 - framework for topic modeling \[GitHub, 16421 stars]
 * ⭐ [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp) ⭐ 4,160 | 🐛 38 | 🌐 Scala | 📅 2026-09-04 \[GitHub, 4131 stars]
 
 ### Repositories
 
-* ⭐ [BERTopic](https://github.com/MaartenGr/BERTopic) ⭐ 7,817 | 🐛 468 | 🌐 Python | 📅 2026-09-03 - Leveraging BERT and a class-based TF-IDF to create easily interpretable topics \[GitHub, 7655 stars]
-* ⭐ [Top2Vec](https://github.com/ddangelov/Top2Vec) ⭐ 3,105 | 🐛 84 | 🌐 Python | 📅 2024-11-14 \[GitHub, 3107 stars]
-* ⭐ [Contextualized Topic Models](https://github.com/MilaNLProc/contextualized-topic-models) ⭐ 1,270 | 🐛 11 | 🌐 Python | 📅 2025-07-24 \[GitHub, 1269 stars]
+* ⭐ [BERTopic](https://github.com/MaartenGr/BERTopic) ⭐ 7,818 | 🐛 468 | 🌐 Python | 📅 2026-09-03 - Leveraging BERT and a class-based TF-IDF to create easily interpretable topics \[GitHub, 7655 stars]
+* ⭐ [Top2Vec](https://github.com/ddangelov/Top2Vec) ⭐ 3,106 | 🐛 84 | 🌐 Python | 📅 2024-11-14 \[GitHub, 3107 stars]
+* ⭐ [Contextualized Topic Models](https://github.com/MilaNLProc/contextualized-topic-models) ⭐ 1,271 | 🐛 11 | 🌐 Python | 📅 2025-07-24 \[GitHub, 1269 stars]
 * ⭐ [OCTIS](https://github.com/MIND-Lab/OCTIS) ⭐ 804 | 🐛 47 | 🌐 Python | 📅 2026-06-21 - A python package to optimize and evaluate topic models \[GitHub, 802 stars]
 * ⭐ [Topic Modeling in Embedding Spaces](https://github.com/adjidieng/ETM) ⭐ 559 | 🐛 32 | 🌐 Python | 📅 2023-10-03 \[GitHub, 561 stars] [Paper](https://arxiv.org/abs/1907.04907)
 * ⭐ [GSDMM](https://github.com/rwalk/gsdmm) ⭐ 359 | 🐛 11 | 🌐 Python | 📅 2022-12-28 - GSDMM: Short text clustering \[GitHub, 359 stars]
@@ -714,7 +714,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 > **Note**
 > Section keywords: keyword extraction
 
-[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-NLP-Pandect#table-of-contents) ⭐ 2,038 | 🐛 2 | 🌐 Python | 📅 2026-06-01
+[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-NLP-Pandect#table-of-contents) ⭐ 2,038 | 🐛 3 | 🌐 Python | 📅 2026-06-01
 
 ### Text Rank
 
@@ -745,14 +745,14 @@ Additionally, there are two more components that are not as prevalent for NLP an
 > **Note**
 > Section keywords: ethics, responsible NLP
 
-[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-NLP-Pandect#table-of-contents) ⭐ 2,038 | 🐛 2 | 🌐 Python | 📅 2026-06-01
+[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-NLP-Pandect#table-of-contents) ⭐ 2,038 | 🐛 3 | 🌐 Python | 📅 2026-06-01
 
 ### NLP and ML Interpretability
 
 #### NLP-centric
 
 * ⭐ [ecco](https://github.com/jalammar/ecco) ⭐ 2,103 | 🐛 38 | 🌐 Jupyter Notebook | 📅 2024-08-15 - Tools to visuals and explore NLP language models \[GitHub, 2102 stars]
-* ⭐ [Awesome-explainable-AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI) ⭐ 1,652 | 🐛 1 | 🌐 Markdown | 📅 2026-08-19 - collection of research materials on explainable AI/ML \[GitHub, 1643 stars]
+* ⭐ [Awesome-explainable-AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI) ⭐ 1,653 | 🐛 1 | 🌐 Markdown | 📅 2026-08-19 - collection of research materials on explainable AI/ML \[GitHub, 1643 stars]
 * ⭐ [transformers-interpret](https://github.com/cdpierse/transformers-interpret) ⭐ 1,417 | 🐛 42 | 🌐 Jupyter Notebook | 📅 2023-08-30 - Model explainability that works seamlessly with transformers \[GitHub, 1412 stars]
 * ⭐ [LAMA](https://github.com/facebookresearch/LAMA) ⚠️ Archived - LAMA is a probe for analyzing the factual and commonsense knowledge contained in pretrained language models \[GitHub, 1387 stars]
 * ⭐ [NLP Profiler](https://github.com/neomatrix369/nlp_profiler) ⭐ 244 | 🐛 18 | 🌐 Python | 📅 2024-05-12 - A simple NLP library allows profiling datasets with text columns \[GitHub, 244 stars]
@@ -760,8 +760,8 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 #### General
 
-* ⭐ [InterpretML](https://github.com/interpretml/interpret) ⭐ 6,936 | 🐛 42 | 🌐 C++ | 📅 2026-08-31 - Fit interpretable models. Explain blackbox machine learning \[GitHub, 6866 stars]
-* ⭐ [Language Interpretability Tool (LIT)](https://github.com/PAIR-code/lit) ⭐ 3,666 | 🐛 138 | 🌐 TypeScript | 📅 2026-07-29 \[GitHub, 3654 stars]
+* ⭐ [InterpretML](https://github.com/interpretml/interpret) ⭐ 6,937 | 🐛 42 | 🌐 C++ | 📅 2026-08-31 - Fit interpretable models. Explain blackbox machine learning \[GitHub, 6866 stars]
+* ⭐ [Language Interpretability Tool (LIT)](https://github.com/PAIR-code/lit) ⭐ 3,667 | 🐛 138 | 🌐 TypeScript | 📅 2026-07-29 \[GitHub, 3654 stars]
 * ⭐ [imodels](https://github.com/csinva/imodels) ⭐ 1,618 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-09-04 - package for concise, transparent, and accurate predictive modeling \[GitHub, 1592 stars]
 * ⭐ [WhatLies](https://github.com/RasaHQ/whatlies) ⚠️ Archived - Toolkit to help visualise - what lies in word embeddings \[GitHub, 480 stars]
 * ⭐ [Interpret-Text](https://github.com/interpretml/interpret-text) ⭐ 431 | 🐛 92 | 🌐 Python | 📅 2024-02-05 - Interpretability techniques and visualization dashboards for NLP models \[GitHub, 432 stars]
@@ -798,17 +798,17 @@ Additionally, there are two more components that are not as prevalent for NLP an
 > **Note**
 > Section keywords: frameworks
 
-[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-NLP-Pandect#table-of-contents) ⭐ 2,038 | 🐛 2 | 🌐 Python | 📅 2026-06-01
+[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-NLP-Pandect#table-of-contents) ⭐ 2,038 | 🐛 3 | 🌐 Python | 📅 2026-06-01
 
 ### General Purpose
 
 * ⭐ [spaCy](https://github.com/explosion/spaCy) ⭐ 33,874 | 🐛 239 | 🌐 Python | 📅 2026-08-24 by Explosion AI \[GitHub, 33624 stars]
-* ⭐ [gensim](https://github.com/RaRe-Technologies/gensim) ⭐ 16,480 | 🐛 439 | 🌐 Python | 📅 2025-11-01 - framework for topic modeling \[GitHub, 16421 stars]
-* ⭐ [nltk](https://github.com/nltk/nltk) ⭐ 14,706 | 🐛 235 | 🌐 Python | 📅 2026-09-04 \[GitHub, 14634 stars]
+* ⭐ [gensim](https://github.com/RaRe-Technologies/gensim) ⭐ 16,479 | 🐛 439 | 🌐 Python | 📅 2025-11-01 - framework for topic modeling \[GitHub, 16421 stars]
+* ⭐ [nltk](https://github.com/nltk/nltk) ⭐ 14,707 | 🐛 235 | 🌐 Python | 📅 2026-09-04 \[GitHub, 14634 stars]
 * ⭐ [flair](https://github.com/flairNLP/flair) ⭐ 14,385 | 🐛 31 | 🌐 Python | 📅 2025-10-27 by Zalando \[GitHub, 14377 stars]
 * ⭐ [AllenNLP](https://github.com/allenai/allennlp) ⚠️ Archived by AI2 \[GitHub, 11897 stars]
-* ⭐ [textblob](https://github.com/sloria/textblob) ⭐ 9,542 | 🐛 75 | 🌐 Python | 📅 2026-09-01 - TextBlob: Simplified Text Processing \[GitHub, 9536 stars]
-* ⭐ [stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,872 | 🐛 94 | 🌐 Python | 📅 2026-09-04 (former Stanford NLP) \[GitHub, 7806 stars]
+* ⭐ [textblob](https://github.com/sloria/textblob) ⭐ 9,543 | 🐛 75 | 🌐 Python | 📅 2026-09-01 - TextBlob: Simplified Text Processing \[GitHub, 9536 stars]
+* ⭐ [stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,872 | 🐛 94 | 🌐 Python | 📅 2026-09-05 (former Stanford NLP) \[GitHub, 7806 stars]
 * ⭐ [NLP Architect](https://github.com/NervanaSystems/nlp-architect) ⚠️ Archived - A Deep Learning NLP/NLU library by Intel® AI Lab \[GitHub, 2933 stars]
 * ⭐ [TextHero](https://github.com/jbesomi/texthero) ⭐ 2,906 | 🐛 82 | 🌐 Python | 📅 2023-08-29 - Text preprocessing, representation and visualization \[GitHub, 2911 stars]
 * ⭐ [texar](https://github.com/asyml/texar) ⭐ 2,388 | 🐛 40 | 🌐 Python | 📅 2026-07-21 - Toolkit for Machine Learning, Natural Language Processing, and Text Generation, in TensorFlow \[GitHub, 2391 stars]
@@ -825,7 +825,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 ### Data Augmentation
 
-* ⭐ [faker](https://github.com/joke2k/faker) ⭐ 19,391 | 🐛 30 | 🌐 Python | 📅 2026-09-01 - Python package that generates fake data for you \[GitHub, 19253 stars]
+* ⭐ [faker](https://github.com/joke2k/faker) ⭐ 19,390 | 🐛 30 | 🌐 Python | 📅 2026-09-01 - Python package that generates fake data for you \[GitHub, 19253 stars]
 * ⭐ [snorkel](https://github.com/snorkel-team/snorkel) ⭐ 6,005 | 🐛 19 | 🌐 Python | 📅 2026-06-08 Framework to generate training data \[GitHub, 5970 stars]
 * ⭐ [AugLy](https://github.com/facebookresearch/AugLy) ⭐ 5,090 | 🐛 27 | 🌐 Python | 📅 2026-08-24 - data augmentations library for audio, image, text, and video \[GitHub, 5084 stars]
 * ⭐ [NLPAug](https://github.com/makcedward/nlpaug) ⭐ 4,665 | 🐛 92 | 🌐 Jupyter Notebook | 📅 2026-09-02 Data augmentation for NLP \[GitHub, 4657 stars]
@@ -838,29 +838,29 @@ Additionally, there are two more components that are not as prevalent for NLP an
 ### Adversarial NLP Attacks & Behavioral Testing
 
 * ⭐ [CleverHans](https://github.com/tensorflow/cleverhans) ⭐ 6,450 | 🐛 46 | 🌐 Jupyter Notebook | 📅 2024-04-10 - adversarial example library for constructing NLP attacks and building defenses \[GitHub, 6438 stars]
-* ⭐ [TextAttack](https://github.com/QData/TextAttack) ⭐ 3,473 | 🐛 18 | 🌐 Python | 📅 2026-08-15 - framework for adversarial attacks, data augmentation, and model training in NLP \[GitHub, 3427 stars]
-* ⭐ [CheckList](https://github.com/marcotcr/checklist) ⭐ 2,050 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2024-01-09 - Beyond Accuracy: Behavioral Testing of NLP models \[GitHub, 2050 stars]
+* ⭐ [TextAttack](https://github.com/QData/TextAttack) ⭐ 3,474 | 🐛 18 | 🌐 Python | 📅 2026-08-15 - framework for adversarial attacks, data augmentation, and model training in NLP \[GitHub, 3427 stars]
+* ⭐ [CheckList](https://github.com/marcotcr/checklist) ⭐ 2,049 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2024-01-09 - Beyond Accuracy: Behavioral Testing of NLP models \[GitHub, 2050 stars]
 
 ### Transformer-oriented
 
-* ⭐ [transformers](https://github.com/huggingface/transformers) ⭐ 164,799 | 🐛 2,388 | 🌐 Python | 📅 2026-09-05 by HuggingFace \[GitHub, 161166 stars]
-* ⭐ [haystack](https://github.com/deepset-ai/haystack) ⭐ 26,419 | 🐛 110 | 🌐 Python | 📅 2026-09-04 - Transformers at scale for question answering & neural search. \[GitHub, 25432 stars]
+* ⭐ [transformers](https://github.com/huggingface/transformers) ⭐ 164,844 | 🐛 2,402 | 🌐 Python | 📅 2026-09-06 by HuggingFace \[GitHub, 161166 stars]
+* ⭐ [haystack](https://github.com/deepset-ai/haystack) ⭐ 26,427 | 🐛 121 | 🌐 Python | 📅 2026-09-04 - Transformers at scale for question answering & neural search. \[GitHub, 25432 stars]
 * ⭐ [Adapter Hub](https://github.com/Adapter-Hub/adapter-transformers) ⭐ 2,826 | 🐛 48 | 🌐 Python | 📅 2026-04-26 and its [documentation](https://docs.adapterhub.ml/index.html) - Adapter modules for Transformers \[GitHub, 2812 stars]
 
 ### Dialogue Systems and Speech, Voice Agents
 
 * ⭐ [rasa](https://github.com/RasaHQ/rasa) ⭐ 21,317 | 🐛 153 | 🌐 Python | 📅 2026-07-24 - Framework for Conversational Agents \[GitHub, 21190 stars]
 * ⭐ [ChatterBot](https://github.com/gunthercox/ChatterBot) ⭐ 14,508 | 🐛 72 | 🌐 Python | 📅 2026-08-25 - conversational dialog engine for creating chatbots \[GitHub, 14488 stars]
-* ⭐ [SpeechBrain](https://github.com/speechbrain/speechbrain) ⭐ 11,801 | 🐛 182 | 🌐 Python | 📅 2026-08-27 - open-source and all-in-one speech toolkit based on PyTorch \[GitHub, 11581 stars]
+* ⭐ [SpeechBrain](https://github.com/speechbrain/speechbrain) ⭐ 11,802 | 🐛 182 | 🌐 Python | 📅 2026-08-27 - open-source and all-in-one speech toolkit based on PyTorch \[GitHub, 11581 stars]
 * ⭐ [ParlAI](https://github.com/facebookresearch/ParlAI) ⚠️ Archived by FAIR \[GitHub, 10627 stars]
 * ⭐ [DeepPavlov](https://github.com/deepmipt/DeepPavlov) ⭐ 6,987 | 🐛 56 | 🌐 Python | 📅 2025-08-06 by MIPT \[GitHub, 6986 stars]
 * ⭐ [wav2letter](https://github.com/facebookresearch/wav2letter) ⭐ 6,437 | 🐛 107 | 🌐 C++ | 📅 2026-08-28 - Automatic Speech Recognition Toolkit \[GitHub, 6444 stars]
-* ⭐ [gabber](https://github.com/gabber-dev/gabber) ⭐ 1,111 | 🐛 10 | 🌐 Python | 📅 2025-12-20 AI applications that can see, hear, and speak using your screens, microphones \[GitHub, 1103 stars]
+* ⭐ [gabber](https://github.com/gabber-dev/gabber) ⭐ 1,112 | 🐛 10 | 🌐 Python | 📅 2025-12-20 AI applications that can see, hear, and speak using your screens, microphones \[GitHub, 1103 stars]
 * ⭐ [dialoguefactory](https://github.com/smartinovski/dialoguefactory/tree/main) Generate continuous dialogue data in a simulated textual world \[GitHub, 5 stars]
 
 ### Word/Sentence-embeddings oriented
 
-* ⭐ [sentence-transformers](https://github.com/UKPLab/sentence-transformers) ⭐ 19,073 | 🐛 1,291 | 🌐 Python | 📅 2026-09-04 - Multilingual Sentence & Image Embeddings with BERT \[GitHub, 18765 stars]
+* ⭐ [sentence-transformers](https://github.com/UKPLab/sentence-transformers) ⭐ 19,073 | 🐛 1,292 | 🌐 Python | 📅 2026-09-04 - Multilingual Sentence & Image Embeddings with BERT \[GitHub, 18765 stars]
 * ⭐ [MUSE](https://github.com/facebookresearch/MUSE) ⚠️ Archived A library for Multilingual Unsupervised or Supervised word Embeddings \[GitHub, 3246 stars]
 * ⭐ [vecmap](https://github.com/artetxem/vecmap) ⭐ 654 | 🐛 15 | 🌐 Python | 📅 2023-04-22 A framework to learn cross-lingual word embedding mappings \[GitHub, 654 stars]
 
@@ -890,8 +890,8 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 ### Machine Translation
 
-* ⭐ [argos-translate](https://github.com/argosopentech/argos-translate) ⭐ 6,430 | 🐛 161 | 🌐 Python | 📅 2026-08-08 - Open source neural machine translation in Python \[GitHub, 6092 stars]
-* ⭐ [CTranslate2](https://github.com/OpenNMT/CTranslate2) ⭐ 4,662 | 🐛 282 | 🌐 C++ | 📅 2026-08-31 - CTranslate2 end-to-end machine translation \[GitHub, 4507 stars]
+* ⭐ [argos-translate](https://github.com/argosopentech/argos-translate) ⭐ 6,433 | 🐛 161 | 🌐 Python | 📅 2026-08-08 - Open source neural machine translation in Python \[GitHub, 6092 stars]
+* ⭐ [CTranslate2](https://github.com/OpenNMT/CTranslate2) ⭐ 4,663 | 🐛 282 | 🌐 C++ | 📅 2026-08-31 - CTranslate2 end-to-end machine translation \[GitHub, 4507 stars]
 * ⭐ [marian-nmt](https://github.com/marian-nmt/marian) ⭐ 1,470 | 🐛 97 | 🌐 C++ | 📅 2023-08-25 - Fast Neural Machine Translation in C++ \[GitHub, 1449 stars]
 * ⭐ [Opus-MT](https://github.com/Helsinki-NLP/Opus-MT) ⭐ 853 | 🐛 57 | 🌐 Python | 📅 2026-02-23 - Open neural machine translation models and web services \[GitHub, 819 stars]
 * ⭐ [COMET](https://github.com/Unbabel/COMET) ⭐ 778 | 🐛 62 | 🌐 Python | 📅 2026-04-21 -A Neural Framework for MT Evaluation \[GitHub, 756 stars]
@@ -899,9 +899,9 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 ### Entity and String Matching
 
-* ⭐ [bge-m3](https://huggingface.co/BAAI/bge-m3) - BGE-M3 hybrid retrieval + re-ranking [GitHub](https://github.com/FlagOpen/FlagEmbedding/tree/master/FlagEmbedding) ⭐ 12,131 | 🐛 908 | 🌐 Python | 📅 2026-08-24 \[GitHub, 11753 stars]
+* ⭐ [bge-m3](https://huggingface.co/BAAI/bge-m3) - BGE-M3 hybrid retrieval + re-ranking [GitHub](https://github.com/FlagOpen/FlagEmbedding/tree/master/FlagEmbedding) ⭐ 12,136 | 🐛 908 | 🌐 Python | 📅 2026-08-24 \[GitHub, 11753 stars]
 * ⭐ [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) ⚠️ Archived - Fuzzy String Matching in Python \[GitHub, 9259 stars]
-* ⭐ [textdistance](https://github.com/life4/textdistance) ⭐ 3,539 | 🐛 10 | 🌐 Python | 📅 2025-04-18 - Compute distance between sequences \[GitHub, 3534 stars]
+* ⭐ [textdistance](https://github.com/life4/textdistance) ⭐ 3,539 | 🐛 11 | 🌐 Python | 📅 2025-04-18 - Compute distance between sequences \[GitHub, 3534 stars]
 * ⭐ [jellyfish](https://github.com/jamesturk/jellyfish) ⭐ 2,232 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2026-07-24 - approximate and phonetic matching of strings \[GitHub, 2215 stars]
 * ⭐ [pyahocorasick](https://github.com/WojciechMula/pyahocorasick) ⭐ 1,122 | 🐛 36 | 🌐 C | 📅 2026-04-27 - Python module implementing Aho-Corasick algorithm for string matching \[GitHub, 1104 stars]
 * ⭐ [PolyFuzz](https://github.com/MaartenGr/PolyFuzz) ⭐ 802 | 🐛 32 | 🌐 Python | 📅 2025-07-10 - Fuzzy string matching, grouping, and evaluation \[GitHub, 797 stars]
@@ -933,7 +933,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 #### Japanese
 
 * ⭐ [kuromoji](https://github.com/atilika/kuromoji) ⭐ 1,058 | 🐛 31 | 🌐 Java | 📅 2023-01-23 - self-contained and very easy to use Japanese morphological analyzer designed for search \[GitHub, 1043 stars]
-* ⭐ [Ginza](https://github.com/megagonlabs/ginza) ⭐ 869 | 🐛 6 | 🌐 Python | 📅 2026-09-04 - Japanese NLP Library using spaCy as framework based on Universal Dependencies \[GitHub, 854 stars]
+* ⭐ [Ginza](https://github.com/megagonlabs/ginza) ⭐ 870 | 🐛 6 | 🌐 Python | 📅 2026-09-06 - Japanese NLP Library using spaCy as framework based on Universal Dependencies \[GitHub, 854 stars]
 * ⭐ [fugashi](https://github.com/polm/fugashi) ⭐ 536 | 🐛 11 | 🌐 C++ | 📅 2025-10-24 - Cython MeCab wrapper for fast, pythonic Japanese tokenization and morphological analysis \[GitHub, 521 stars]
 * ⭐ [RakutenMA](https://github.com/rakuten-nlp/rakutenma) ⭐ 471 | 🐛 8 | 🌐 JavaScript | 📅 2019-02-02 - morphological analyzer (word segmentor + PoS Tagger) for Chinese and Japanese written purely in JavaScript \[GitHub, 472 stars]
 * ⭐ [SudachiPy](https://github.com/WorksApplications/SudachiPy) ⚠️ Archived - SudachiPy is a Python version of Sudachi, a Japanese morphological analyzer \[GitHub, 437 stars]
@@ -961,13 +961,13 @@ Additionally, there are two more components that are not as prevalent for NLP an
 #### Other
 
 * ⭐ [Kashgari](https://github.com/BrikerMan/Kashgari) ⭐ 2,380 | 🐛 28 | 🌐 Python | 📅 2024-09-03 Transfer Learning with focus on Chinese \[GitHub, 2384 stars]
-* ⭐ [Underthesea](https://github.com/undertheseanlp/underthesea) ⭐ 1,803 | 🐛 28 | 🌐 Python | 📅 2026-09-03 - Vietnamese NLP Toolkit \[GitHub, 1737 stars]
+* ⭐ [Underthesea](https://github.com/undertheseanlp/underthesea) ⭐ 1,802 | 🐛 28 | 🌐 Python | 📅 2026-09-05 - Vietnamese NLP Toolkit \[GitHub, 1737 stars]
 * ⭐ [textblob-de](https://github.com/markuskiller/textblob-de) ⭐ 103 | 🐛 11 | 🌐 Python | 📅 2025-01-07 - TextBlob: Simplified Text Processing for German \[GitHub, 103 stars]
 * ⭐ [PTT5](https://github.com/unicamp-dl/PTT5) ⭐ 91 | 🐛 9 | 🌐 Python | 📅 2022-12-08 - Pretraining and validating the T5 model on Brazilian Portuguese data \[GitHub, 91 stars]
 
 ### Text Data Labelling & Classification
 
-* ⭐ [Doccano](https://github.com/doccano/doccano) ⭐ 10,764 | 🐛 398 | 🌐 Python | 📅 2026-04-14 - open source annotation tool for machine learning practitioners \[GitHub, 10659 stars]
+* ⭐ [Doccano](https://github.com/doccano/doccano) ⭐ 10,765 | 🐛 398 | 🌐 Python | 📅 2026-04-14 - open source annotation tool for machine learning practitioners \[GitHub, 10659 stars]
 * ⭐ [EDA](https://github.com/jasonwei20/eda_nlp) ⭐ 1,653 | 🐛 11 | 🌐 Python | 📅 2023-03-19 - Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks \[GitHub, 1652 stars]
 * ⭐ [Adala](https://github.com/HumanSignal/Adala) ⭐ 1,629 | 🐛 173 | 🌐 Python | 📅 2026-09-03 - Autonomous DAta (Labeling) Agent framework \[GitHub, 1593 stars]
 * ⭐ [Small-Text](https://github.com/webis-de/small-text) ⭐ 646 | 🐛 17 | 🌐 Python | 📅 2026-05-24 - Active Learning for Text Classifcation in Python \[GitHub, 643 stars]
@@ -978,7 +978,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 > **Note**
 > Section keywords: learn NLP
 
-[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-NLP-Pandect#table-of-contents) ⭐ 2,038 | 🐛 2 | 🌐 Python | 📅 2026-06-01
+[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-NLP-Pandect#table-of-contents) ⭐ 2,038 | 🐛 3 | 🌐 Python | 📅 2026-06-01
 
 #### General
 
@@ -1008,7 +1008,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 #### Tutorials
 
 * ⭐ [nlp-tutorial](https://github.com/graykode/nlp-tutorial) ⭐ 14,929 | 🐛 40 | 🌐 Jupyter Notebook | 📅 2024-02-21 - Natural Language Processing Tutorial for Deep Learning Researchers \[GitHub, 14901 stars]
-* ⭐ [Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials) ⭐ 11,750 | 🐛 313 | 🌐 Jupyter Notebook | 📅 2026-04-20 - demos with the Transformers library by HuggingFace \[GitHub, 11633 stars]
+* ⭐ [Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials) ⭐ 11,749 | 🐛 313 | 🌐 Jupyter Notebook | 📅 2026-04-20 - demos with the Transformers library by HuggingFace \[GitHub, 11633 stars]
 * ⭐ [nlp-tutorial](https://github.com/lyeoni/nlp-tutorial) ⭐ 1,375 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2020-04-01 - A list of NLP(Natural Language Processing) tutorials built on PyTorch \[GitHub, 1374 stars]
 * ⭐ [Hands-On NLTK Tutorial](https://github.com/hb20007/hands-on-nltk-tutorial) ⭐ 571 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-04-17 \[GitHub, 572 stars]
 * ⭐ [Modern Practical Natural Language Processing](https://github.com/jmugan/modern_practical_nlp) ⭐ 266 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-10-12 \[GitHub, 266 stars]
@@ -1020,12 +1020,12 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 ## ![Other-NLP-Topics](Resources/Images/pandect_papyrus_other.png)
 
-[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-NLP-Pandect#table-of-contents) ⭐ 2,038 | 🐛 2 | 🌐 Python | 📅 2026-06-01
+[🔙 Back to the Table of Contents](https://github.com/ivan-bilan/The-NLP-Pandect#table-of-contents) ⭐ 2,038 | 🐛 3 | 🌐 Python | 📅 2026-06-01
 
 #### Tokenization
 
-* ⭐ [SentencePiece](https://github.com/google/sentencepiece) ⭐ 12,056 | 🐛 7 | 🌐 C++ | 📅 2026-09-03 - Unsupervised text tokenizer for Neural Network-based text generation \[GitHub, 11870 stars]
-* ⭐ [tokenizers](https://github.com/huggingface/tokenizers) ⭐ 11,015 | 🐛 255 | 🌐 Rust | 📅 2026-09-04 - Fast State-of-the-Art Tokenizers optimized for Research and Production \[GitHub, 10782 stars]
+* ⭐ [SentencePiece](https://github.com/google/sentencepiece) ⭐ 12,058 | 🐛 7 | 🌐 C++ | 📅 2026-09-03 - Unsupervised text tokenizer for Neural Network-based text generation \[GitHub, 11870 stars]
+* ⭐ [tokenizers](https://github.com/huggingface/tokenizers) ⭐ 11,016 | 🐛 255 | 🌐 Rust | 📅 2026-09-04 - Fast State-of-the-Art Tokenizers optimized for Research and Production \[GitHub, 10782 stars]
 * ⭐ [SoMaJo](https://github.com/tsproisl/SoMaJo) ⭐ 154 | 🐛 7 | 🌐 Python | 📅 2026-08-07 - A tokenizer and sentence splitter for German and English web and social media texts \[GitHub, 152 stars]
 
 #### Data Augmentation and Weak Supervision
@@ -1034,7 +1034,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 * ⭐ [snorkel](https://github.com/snorkel-team/snorkel) ⭐ 6,005 | 🐛 19 | 🌐 Python | 📅 2026-06-08 Framework to generate training data \[GitHub, 5970 stars]
 * ⭐ [NLPAug](https://github.com/makcedward/nlpaug) ⭐ 4,665 | 🐛 92 | 🌐 Jupyter Notebook | 📅 2026-09-02 Data augmentation for NLP \[GitHub, 4657 stars]
-* ⭐ [TextAttack](https://github.com/QData/TextAttack) ⭐ 3,473 | 🐛 18 | 🌐 Python | 📅 2026-08-15 - framework for adversarial attacks, data augmentation, and model training in NLP \[GitHub, 3427 stars]
+* ⭐ [TextAttack](https://github.com/QData/TextAttack) ⭐ 3,474 | 🐛 18 | 🌐 Python | 📅 2026-08-15 - framework for adversarial attacks, data augmentation, and model training in NLP \[GitHub, 3427 stars]
 * ⭐ [EDA](https://github.com/jasonwei20/eda_nlp) ⭐ 1,653 | 🐛 11 | 🌐 Python | 📅 2023-03-19 - Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks \[GitHub, 1652 stars]
 * ⭐ [skweak](https://github.com/NorskRegnesentral/skweak) ⭐ 926 | 🐛 7 | 🌐 Python | 📅 2024-09-02 - software toolkit for weak supervision applied to NLP tasks \[GitHub, 927 stars]
 * ⭐ [NL-Augmenter](https://github.com/GEM-benchmark/NL-Augmenter) ⭐ 786 | 🐛 48 | 🌐 Python | 📅 2024-05-19 - Collaborative Repository of Natural Language Transformations \[GitHub, 787 stars]
@@ -1051,7 +1051,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 #### Named Entity Recognition (NER)
 
 * ⭐ [Datasets for Entity Recognition](https://github.com/juand-r/entity-recognition-datasets) ⭐ 1,573 | 🐛 8 | 🌐 Python | 📅 2026-07-02 \[GitHub, 1573 stars]
-* ⭐ [Few-NERD](https://github.com/thunlp/Few-NERD) ⭐ 399 | 🐛 4 | 🌐 Python | 📅 2023-09-07 - Large-scale, fine-grained manually annotated named entity recognition dataset \[GitHub, 400 stars]
+* ⭐ [Few-NERD](https://github.com/thunlp/Few-NERD) ⭐ 400 | 🐛 4 | 🌐 Python | 📅 2023-09-07 - Large-scale, fine-grained manually annotated named entity recognition dataset \[GitHub, 400 stars]
 * ⭐ [Datasets to train supervised classifiers for Named-Entity Recognition](https://github.com/davidsbatista/NER-datasets) ⭐ 343 | 🐛 2 | 🌐 Python | 📅 2022-10-30 \[GitHub, 344 stars]
 * ⭐ [Bootleg](https://github.com/HazyResearch/bootleg) ⭐ 218 | 🐛 6 | 🌐 Python | 📅 2022-06-14 - Self-Supervision for Named Entity Disambiguation at the Tail \[GitHub, 218 stars]
 
@@ -1082,7 +1082,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 #### Spell Correction / Error Correction
 
-* ⭐ [pycorrector](https://github.com/shibing624/pycorrector) ⭐ 6,518 | 🐛 30 | 🌐 Python | 📅 2026-07-25 - spell correction for Chinese \[GitHub, 6452 stars]
+* ⭐ [pycorrector](https://github.com/shibing624/pycorrector) ⭐ 6,521 | 🐛 30 | 🌐 Python | 📅 2026-07-25 - spell correction for Chinese \[GitHub, 6452 stars]
 * ⭐ [Gramformer](https://github.com/PrithivirajDamodaran/Gramformer) ⭐ 1,584 | 🐛 14 | 🌐 Python | 📅 2023-02-15 - ramework for detecting, highlighting and correcting grammatical errors \[GitHub, 1581 stars]
 * ⭐ [SymSpellPy](https://github.com/mammothb/symspellpy) ⭐ 877 | 🐛 10 | 🌐 Python | 📅 2026-08-21 - Python port of SymSpell \[GitHub, 871 stars]
 * ⭐ [NeuSpell](https://github.com/neuspell/neuspell) ⭐ 714 | 🐛 64 | 🌐 Python | 📅 2023-07-31 - A Neural Spelling Correction Toolkit \[GitHub, 712 stars]
@@ -1093,7 +1093,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 #### PDF Parsing
 
-* ⭐ [bentopdf](https://github.com/alam00000/bentopdf) ⭐ 15,190 | 🐛 154 | 🌐 JavaScript | 📅 2026-09-04 - A Privacy First PDF Toolkit \[GitHub, 13552 stars]
+* ⭐ [bentopdf](https://github.com/alam00000/bentopdf) ⭐ 15,231 | 🐛 153 | 🌐 JavaScript | 📅 2026-09-05 - A Privacy First PDF Toolkit \[GitHub, 13552 stars]
 * ⭐ [spacy-layout](https://github.com/explosion/spacy-layout) ⭐ 911 | 🐛 26 | 🌐 Python | 📅 2026-03-27 - Process PDFs, Word documents and more with spaCy \[GitHub, 902 stars]
 
 #### Style Transfer for NLP
@@ -1107,7 +1107,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 #### Obscene words detection
 
-* ⭐ [LDNOOBW](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) ⭐ 3,439 | 🐛 105 | 📅 2024-08-05 - List of Dirty, Naughty, Obscene, and Otherwise Bad Words \[GitHub, 3376 stars]
+* ⭐ [LDNOOBW](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) ⭐ 3,438 | 🐛 105 | 📅 2024-08-05 - List of Dirty, Naughty, Obscene, and Otherwise Bad Words \[GitHub, 3376 stars]
 
 #### Reddit Analysis
 
@@ -1123,7 +1123,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 #### AutoML / AutoNLP
 
-* ⭐ [Optuna](https://github.com/optuna/optuna) ⭐ 14,745 | 🐛 21 | 🌐 Python | 📅 2026-09-04 - hyperparameter optimization framework \[GitHub, 14280 stars]
+* ⭐ [Optuna](https://github.com/optuna/optuna) ⭐ 14,747 | 🐛 21 | 🌐 Python | 📅 2026-09-04 - hyperparameter optimization framework \[GitHub, 14280 stars]
 * ⭐ [TPOT](https://github.com/EpistasisLab/tpot) ⭐ 10,050 | 🐛 312 | 🌐 Jupyter Notebook | 📅 2025-09-11 - Python Automated Machine Learning tool \[GitHub, 10047 stars]
 * ⭐ [AutoNLP](https://github.com/huggingface/autonlp) ⭐ 4,612 | 🐛 3 | 🌐 Python | 📅 2026-07-21 - Faster and easier training and deployments of SOTA NLP models \[GitHub, 4574 stars]
 * ⭐ [FLAML](https://github.com/microsoft/FLAML) ⭐ 4,392 | 🐛 185 | 🌐 Jupyter Notebook | 📅 2026-09-05 - fast and lightweight AutoML library \[GitHub, 4360 stars]
@@ -1200,4 +1200,4 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._

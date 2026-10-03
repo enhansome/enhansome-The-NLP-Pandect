@@ -1,796 +1,6 @@
 {
   "items": [
     {
-      "description": "Note Section keywords: paper summaries, compendium, awesome list",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "NLP Resources",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to Natural Language Processing",
-            "homepage": null,
-            "id": 268292479,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2026-06-01T21:12:51Z",
-            "open_issues": 3,
-            "owner": "ivan-bilan",
-            "repo": "The-NLP-Pandect",
-            "stars": 2040,
-            "topics": [
-              "awesome-list",
-              "deeplearning",
-              "natural-language-processing",
-              "naturallanguageprocessing",
-              "nlp",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-28T12:09:57.007Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Paper Summaries",
-          "description": ", Conference Summaries, NLP Datasets",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to Natural Language Processing",
-            "homepage": null,
-            "id": 268292479,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2026-06-01T21:12:51Z",
-            "open_issues": 3,
-            "owner": "ivan-bilan",
-            "repo": "The-NLP-Pandect",
-            "stars": 2040,
-            "topics": [
-              "awesome-list",
-              "deeplearning",
-              "natural-language-processing",
-              "naturallanguageprocessing",
-              "nlp",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-28T12:09:57.007Z"
-        },
-        {
-          "node_type": "item",
-          "title": "NLP Podcasts",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to Natural Language Processing",
-            "homepage": null,
-            "id": 268292479,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2026-06-01T21:12:51Z",
-            "open_issues": 3,
-            "owner": "ivan-bilan",
-            "repo": "The-NLP-Pandect",
-            "stars": 2040,
-            "topics": [
-              "awesome-list",
-              "deeplearning",
-              "natural-language-processing",
-              "naturallanguageprocessing",
-              "nlp",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-28T12:09:57.007Z"
-        },
-        {
-          "node_type": "item",
-          "title": "NLP-only Podcasts",
-          "description": ", Podcasts with many NLP Episodes",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to Natural Language Processing",
-            "homepage": null,
-            "id": 268292479,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2026-06-01T21:12:51Z",
-            "open_issues": 3,
-            "owner": "ivan-bilan",
-            "repo": "The-NLP-Pandect",
-            "stars": 2040,
-            "topics": [
-              "awesome-list",
-              "deeplearning",
-              "natural-language-processing",
-              "naturallanguageprocessing",
-              "nlp",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-28T12:09:57.007Z"
-        },
-        {
-          "node_type": "item",
-          "title": "NLP Newsletters",
-          "description": "-",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to Natural Language Processing",
-            "homepage": null,
-            "id": 268292479,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2026-06-01T21:12:51Z",
-            "open_issues": 3,
-            "owner": "ivan-bilan",
-            "repo": "The-NLP-Pandect",
-            "stars": 2040,
-            "topics": [
-              "awesome-list",
-              "deeplearning",
-              "natural-language-processing",
-              "naturallanguageprocessing",
-              "nlp",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-28T12:09:57.007Z"
-        },
-        {
-          "node_type": "item",
-          "title": "NLP Meetups",
-          "description": "-",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to Natural Language Processing",
-            "homepage": null,
-            "id": 268292479,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2026-06-01T21:12:51Z",
-            "open_issues": 3,
-            "owner": "ivan-bilan",
-            "repo": "The-NLP-Pandect",
-            "stars": 2040,
-            "topics": [
-              "awesome-list",
-              "deeplearning",
-              "natural-language-processing",
-              "naturallanguageprocessing",
-              "nlp",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-28T12:09:57.007Z"
-        },
-        {
-          "node_type": "item",
-          "title": "NLP YouTube Channels",
-          "description": "-",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to Natural Language Processing",
-            "homepage": null,
-            "id": 268292479,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2026-06-01T21:12:51Z",
-            "open_issues": 3,
-            "owner": "ivan-bilan",
-            "repo": "The-NLP-Pandect",
-            "stars": 2040,
-            "topics": [
-              "awesome-list",
-              "deeplearning",
-              "natural-language-processing",
-              "naturallanguageprocessing",
-              "nlp",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-28T12:09:57.007Z"
-        },
-        {
-          "node_type": "item",
-          "title": "NLP Benchmarks",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to Natural Language Processing",
-            "homepage": null,
-            "id": 268292479,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2026-06-01T21:12:51Z",
-            "open_issues": 3,
-            "owner": "ivan-bilan",
-            "repo": "The-NLP-Pandect",
-            "stars": 2040,
-            "topics": [
-              "awesome-list",
-              "deeplearning",
-              "natural-language-processing",
-              "naturallanguageprocessing",
-              "nlp",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-28T12:09:57.007Z"
-        },
-        {
-          "node_type": "item",
-          "title": "General NLU",
-          "description": ", Question Answering, Multilingual",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to Natural Language Processing",
-            "homepage": null,
-            "id": 268292479,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2026-06-01T21:12:51Z",
-            "open_issues": 3,
-            "owner": "ivan-bilan",
-            "repo": "The-NLP-Pandect",
-            "stars": 2040,
-            "topics": [
-              "awesome-list",
-              "deeplearning",
-              "natural-language-processing",
-              "naturallanguageprocessing",
-              "nlp",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-28T12:09:57.007Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Research Resources",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to Natural Language Processing",
-            "homepage": null,
-            "id": 268292479,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2026-06-01T21:12:51Z",
-            "open_issues": 3,
-            "owner": "ivan-bilan",
-            "repo": "The-NLP-Pandect",
-            "stars": 2040,
-            "topics": [
-              "awesome-list",
-              "deeplearning",
-              "natural-language-processing",
-              "naturallanguageprocessing",
-              "nlp",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-28T12:09:57.007Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Resource on Transformer Models",
-          "description": ", Distillation and Pruning, Automated Summarization",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to Natural Language Processing",
-            "homepage": null,
-            "id": 268292479,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2026-06-01T21:12:51Z",
-            "open_issues": 3,
-            "owner": "ivan-bilan",
-            "repo": "The-NLP-Pandect",
-            "stars": 2040,
-            "topics": [
-              "awesome-list",
-              "deeplearning",
-              "natural-language-processing",
-              "naturallanguageprocessing",
-              "nlp",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-28T12:09:57.007Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Industry Resources",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to Natural Language Processing",
-            "homepage": null,
-            "id": 268292479,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2026-06-01T21:12:51Z",
-            "open_issues": 3,
-            "owner": "ivan-bilan",
-            "repo": "The-NLP-Pandect",
-            "stars": 2040,
-            "topics": [
-              "awesome-list",
-              "deeplearning",
-              "natural-language-processing",
-              "naturallanguageprocessing",
-              "nlp",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-28T12:09:57.007Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Best Practices for NLP Systems",
-          "description": ", MLOps for NLP",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to Natural Language Processing",
-            "homepage": null,
-            "id": 268292479,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2026-06-01T21:12:51Z",
-            "open_issues": 3,
-            "owner": "ivan-bilan",
-            "repo": "The-NLP-Pandect",
-            "stars": 2040,
-            "topics": [
-              "awesome-list",
-              "deeplearning",
-              "natural-language-processing",
-              "naturallanguageprocessing",
-              "nlp",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-28T12:09:57.007Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Speech Recognition",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to Natural Language Processing",
-            "homepage": null,
-            "id": 268292479,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2026-06-01T21:12:51Z",
-            "open_issues": 3,
-            "owner": "ivan-bilan",
-            "repo": "The-NLP-Pandect",
-            "stars": 2040,
-            "topics": [
-              "awesome-list",
-              "deeplearning",
-              "natural-language-processing",
-              "naturallanguageprocessing",
-              "nlp",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-28T12:09:57.007Z"
-        },
-        {
-          "node_type": "item",
-          "title": "General Resources",
-          "description": ", Text to Speech, Speech to Text, Datasets",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to Natural Language Processing",
-            "homepage": null,
-            "id": 268292479,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2026-06-01T21:12:51Z",
-            "open_issues": 3,
-            "owner": "ivan-bilan",
-            "repo": "The-NLP-Pandect",
-            "stars": 2040,
-            "topics": [
-              "awesome-list",
-              "deeplearning",
-              "natural-language-processing",
-              "naturallanguageprocessing",
-              "nlp",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-28T12:09:57.007Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Topic Modeling",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to Natural Language Processing",
-            "homepage": null,
-            "id": 268292479,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2026-06-01T21:12:51Z",
-            "open_issues": 3,
-            "owner": "ivan-bilan",
-            "repo": "The-NLP-Pandect",
-            "stars": 2040,
-            "topics": [
-              "awesome-list",
-              "deeplearning",
-              "natural-language-processing",
-              "naturallanguageprocessing",
-              "nlp",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-28T12:09:57.007Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Blogs",
-          "description": ", Frameworks, Repositories and Projects",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to Natural Language Processing",
-            "homepage": null,
-            "id": 268292479,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2026-06-01T21:12:51Z",
-            "open_issues": 3,
-            "owner": "ivan-bilan",
-            "repo": "The-NLP-Pandect",
-            "stars": 2040,
-            "topics": [
-              "awesome-list",
-              "deeplearning",
-              "natural-language-processing",
-              "naturallanguageprocessing",
-              "nlp",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-28T12:09:57.007Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Keyword Extraction",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to Natural Language Processing",
-            "homepage": null,
-            "id": 268292479,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2026-06-01T21:12:51Z",
-            "open_issues": 3,
-            "owner": "ivan-bilan",
-            "repo": "The-NLP-Pandect",
-            "stars": 2040,
-            "topics": [
-              "awesome-list",
-              "deeplearning",
-              "natural-language-processing",
-              "naturallanguageprocessing",
-              "nlp",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-28T12:09:57.007Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Text Rank",
-          "description": ", Rake, Other Approaches",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to Natural Language Processing",
-            "homepage": null,
-            "id": 268292479,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2026-06-01T21:12:51Z",
-            "open_issues": 3,
-            "owner": "ivan-bilan",
-            "repo": "The-NLP-Pandect",
-            "stars": 2040,
-            "topics": [
-              "awesome-list",
-              "deeplearning",
-              "natural-language-processing",
-              "naturallanguageprocessing",
-              "nlp",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-28T12:09:57.007Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Responsible NLP",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to Natural Language Processing",
-            "homepage": null,
-            "id": 268292479,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2026-06-01T21:12:51Z",
-            "open_issues": 3,
-            "owner": "ivan-bilan",
-            "repo": "The-NLP-Pandect",
-            "stars": 2040,
-            "topics": [
-              "awesome-list",
-              "deeplearning",
-              "natural-language-processing",
-              "naturallanguageprocessing",
-              "nlp",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-28T12:09:57.007Z"
-        },
-        {
-          "node_type": "item",
-          "title": "NLP and ML Interpretability",
-          "description": ", Ethics, Bias, and Equality in NLP, Adversarial Attacks for NLP",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to Natural Language Processing",
-            "homepage": null,
-            "id": 268292479,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2026-06-01T21:12:51Z",
-            "open_issues": 3,
-            "owner": "ivan-bilan",
-            "repo": "The-NLP-Pandect",
-            "stars": 2040,
-            "topics": [
-              "awesome-list",
-              "deeplearning",
-              "natural-language-processing",
-              "naturallanguageprocessing",
-              "nlp",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-28T12:09:57.007Z"
-        },
-        {
-          "node_type": "item",
-          "title": "NLP Frameworks",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to Natural Language Processing",
-            "homepage": null,
-            "id": 268292479,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2026-06-01T21:12:51Z",
-            "open_issues": 3,
-            "owner": "ivan-bilan",
-            "repo": "The-NLP-Pandect",
-            "stars": 2040,
-            "topics": [
-              "awesome-list",
-              "deeplearning",
-              "natural-language-processing",
-              "naturallanguageprocessing",
-              "nlp",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-28T12:09:57.007Z"
-        },
-        {
-          "node_type": "item",
-          "title": "General Purpose",
-          "description": ", Data Augmentation, Machine Translation, Adversarial Attacks, Dialog Systems & Speech, Entity and String Matching, Non-English Frameworks, Text Annotation",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to Natural Language Processing",
-            "homepage": null,
-            "id": 268292479,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2026-06-01T21:12:51Z",
-            "open_issues": 3,
-            "owner": "ivan-bilan",
-            "repo": "The-NLP-Pandect",
-            "stars": 2040,
-            "topics": [
-              "awesome-list",
-              "deeplearning",
-              "natural-language-processing",
-              "naturallanguageprocessing",
-              "nlp",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-28T12:09:57.007Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Learning NLP",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to Natural Language Processing",
-            "homepage": null,
-            "id": 268292479,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2026-06-01T21:12:51Z",
-            "open_issues": 3,
-            "owner": "ivan-bilan",
-            "repo": "The-NLP-Pandect",
-            "stars": 2040,
-            "topics": [
-              "awesome-list",
-              "deeplearning",
-              "natural-language-processing",
-              "naturallanguageprocessing",
-              "nlp",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-28T12:09:57.007Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Courses",
-          "description": ", Books, Tutorials",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to Natural Language Processing",
-            "homepage": null,
-            "id": 268292479,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2026-06-01T21:12:51Z",
-            "open_issues": 3,
-            "owner": "ivan-bilan",
-            "repo": "The-NLP-Pandect",
-            "stars": 2040,
-            "topics": [
-              "awesome-list",
-              "deeplearning",
-              "natural-language-processing",
-              "naturallanguageprocessing",
-              "nlp",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-28T12:09:57.007Z"
-        },
-        {
-          "node_type": "item",
-          "title": "NLP Communities",
-          "description": "-",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to Natural Language Processing",
-            "homepage": null,
-            "id": 268292479,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2026-06-01T21:12:51Z",
-            "open_issues": 3,
-            "owner": "ivan-bilan",
-            "repo": "The-NLP-Pandect",
-            "stars": 2040,
-            "topics": [
-              "awesome-list",
-              "deeplearning",
-              "natural-language-processing",
-              "naturallanguageprocessing",
-              "nlp",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-28T12:09:57.007Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Other NLP Topics",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to Natural Language Processing",
-            "homepage": null,
-            "id": 268292479,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2026-06-01T21:12:51Z",
-            "open_issues": 3,
-            "owner": "ivan-bilan",
-            "repo": "The-NLP-Pandect",
-            "stars": 2040,
-            "topics": [
-              "awesome-list",
-              "deeplearning",
-              "natural-language-processing",
-              "naturallanguageprocessing",
-              "nlp",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-28T12:09:57.007Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Tokenization",
-          "description": ", Data Augmentation, Named Entity Recognition, Error Correction, AutoML/AutoNLP, Text Generation",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to Natural Language Processing",
-            "homepage": null,
-            "id": 268292479,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2026-06-01T21:12:51Z",
-            "open_issues": 3,
-            "owner": "ivan-bilan",
-            "repo": "The-NLP-Pandect",
-            "stars": 2040,
-            "topics": [
-              "awesome-list",
-              "deeplearning",
-              "natural-language-processing",
-              "naturallanguageprocessing",
-              "nlp",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-28T12:09:57.007Z"
-        }
-      ],
-      "title": "Overview"
-    },
-    {
       "description": null,
       "items": [
         {
@@ -806,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-30T20:31:22Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "Shubhamsaboo",
             "repo": "awesome-llm-apps",
-            "stars": 140524,
+            "stars": 140568,
             "topics": [
               "agents",
               "llms",
@@ -832,10 +42,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-07T10:42:10Z",
-            "open_issues": 25,
+            "open_issues": 27,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19047,
+            "stars": 19049,
             "topics": [
               "awesome",
               "awesome-list",
@@ -949,7 +159,7 @@
             "open_issues": 0,
             "owner": "stepthom",
             "repo": "text_mining_resources",
-            "stars": 598,
+            "stars": 599,
             "topics": [
               "awesome",
               "awesome-list",
@@ -993,7 +203,7 @@
                 "open_issues": 2,
                 "owner": "mhagiwara",
                 "repo": "100-nlp-papers",
-                "stars": 3853,
+                "stars": 3852,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:09:57.007Z"
@@ -1226,7 +436,7 @@
             "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22952,
+            "stars": 22950,
             "topics": [
               "dialogue",
               "machine-learning",
@@ -1281,8 +491,8 @@
             "id": 250213286,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T09:58:20Z",
-            "open_issues": 1453,
+            "last_commit": "2026-10-02T13:23:35Z",
+            "open_issues": 1456,
             "owner": "huggingface",
             "repo": "datasets",
             "stars": 22024,
@@ -1323,7 +533,7 @@
             "open_issues": 12,
             "owner": "niderhoff",
             "repo": "nlp-datasets",
-            "stars": 6001,
+            "stars": 6003,
             "topics": []
           },
           "first_seen": "2026-08-28T12:09:57.007Z"
@@ -1368,7 +578,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-24T02:57:42Z",
-            "open_issues": 916,
+            "open_issues": 918,
             "owner": "FlagOpen",
             "repo": "FlagEmbedding",
             "stars": 12211,
@@ -1439,7 +649,7 @@
             "open_issues": 4,
             "owner": "Hironsan",
             "repo": "awesome-embedding-models",
-            "stars": 1856,
+            "stars": 1855,
             "topics": [
               "awesome",
               "embedding-models",
@@ -1527,7 +737,7 @@
             "open_issues": 39,
             "owner": "goru001",
             "repo": "inltk",
-            "stars": 839,
+            "stars": 840,
             "topics": [
               "data-augmentation",
               "deep-learning",
@@ -1600,7 +810,7 @@
             "open_issues": 34,
             "owner": "anoopkunchukuttan",
             "repo": "indic_nlp_library",
-            "stars": 648,
+            "stars": 649,
             "topics": [
               "indian-languages",
               "natural-language-processing",
@@ -1949,41 +1159,6 @@
           "description": null,
           "node_type": "group",
           "title": "General"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "🔙 Back to the Table of Contents",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A comprehensive reference for all topics related to Natural Language Processing",
-                "homepage": null,
-                "id": 268292479,
-                "language": "Python",
-                "license": "CC0-1.0",
-                "last_commit": "2026-06-01T21:12:51Z",
-                "open_issues": 3,
-                "owner": "ivan-bilan",
-                "repo": "The-NLP-Pandect",
-                "stars": 2040,
-                "topics": [
-                  "awesome-list",
-                  "deeplearning",
-                  "natural-language-processing",
-                  "naturallanguageprocessing",
-                  "nlp",
-                  "pandect"
-                ]
-              },
-              "first_seen": "2026-08-28T12:09:57.007Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "2020 Year in Review"
         }
       ],
       "title": "NLP History"
@@ -2250,34 +1425,6 @@
             "topics": []
           },
           "first_seen": "2026-08-28T12:09:57.007Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🔙 Back to the Table of Contents",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to Natural Language Processing",
-            "homepage": null,
-            "id": 268292479,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2026-06-01T21:12:51Z",
-            "open_issues": 3,
-            "owner": "ivan-bilan",
-            "repo": "The-NLP-Pandect",
-            "stars": 2040,
-            "topics": [
-              "awesome-list",
-              "deeplearning",
-              "natural-language-processing",
-              "naturallanguageprocessing",
-              "nlp",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-28T12:09:57.007Z"
         }
       ],
       "title": "Other"
@@ -2303,7 +1450,7 @@
                 "open_issues": 554,
                 "owner": "facebookresearch",
                 "repo": "fastText",
-                "stars": 26523,
+                "stars": 26522,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:09:57.007Z"
@@ -2433,7 +1580,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-01T20:19:25Z",
-                "open_issues": 1360,
+                "open_issues": 1365,
                 "owner": "huggingface",
                 "repo": "sentence-transformers",
                 "stars": 19144,
@@ -2780,7 +1927,7 @@
                     "open_issues": 44,
                     "owner": "lucidrains",
                     "repo": "performer-pytorch",
-                    "stars": 1184,
+                    "stars": 1183,
                     "topics": [
                       "artificial-intelligence",
                       "attention",
@@ -2914,7 +2061,7 @@
                 "open_issues": 44,
                 "owner": "lucidrains",
                 "repo": "performer-pytorch",
-                "stars": 1184,
+                "stars": 1183,
                 "topics": [
                   "artificial-intelligence",
                   "attention",
@@ -3170,34 +2317,6 @@
             "topics": []
           },
           "first_seen": "2026-08-28T12:09:57.007Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🔙 Back to the Table of Contents",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to Natural Language Processing",
-            "homepage": null,
-            "id": 268292479,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2026-06-01T21:12:51Z",
-            "open_issues": 3,
-            "owner": "ivan-bilan",
-            "repo": "The-NLP-Pandect",
-            "stars": 2040,
-            "topics": [
-              "awesome-list",
-              "deeplearning",
-              "natural-language-processing",
-              "naturallanguageprocessing",
-              "nlp",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-28T12:09:57.007Z"
         }
       ],
       "title": "Small LLMs"
@@ -3264,7 +2383,7 @@
                 "open_issues": 47,
                 "owner": "visenger",
                 "repo": "awesome-mlops",
-                "stars": 14227,
+                "stars": 14228,
                 "topics": [
                   "ai",
                   "data-science",
@@ -3298,11 +2417,11 @@
                 "id": 612354784,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-02T05:32:14Z",
-                "open_issues": 2523,
+                "last_commit": "2026-10-03T02:35:40Z",
+                "open_issues": 2520,
                 "owner": "ggml-org",
                 "repo": "llama.cpp",
-                "stars": 130108,
+                "stars": 130176,
                 "topics": [
                   "ggml"
                 ]
@@ -3321,11 +2440,11 @@
                 "id": 599547518,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T06:07:23Z",
-                "open_issues": 8464,
+                "last_commit": "2026-10-03T04:20:51Z",
+                "open_issues": 8479,
                 "owner": "vllm-project",
                 "repo": "vllm",
-                "stars": 93051,
+                "stars": 93086,
                 "topics": [
                   "amd",
                   "blackwell",
@@ -3374,7 +2493,7 @@
                 "open_issues": 217,
                 "owner": "treeverse",
                 "repo": "dvc",
-                "stars": 15898,
+                "stars": 15901,
                 "topics": [
                   "ai",
                   "data-science",
@@ -3406,11 +2525,11 @@
                 "id": 136202695,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T06:00:45Z",
-                "open_issues": 2151,
+                "last_commit": "2026-10-03T04:09:23Z",
+                "open_issues": 2153,
                 "owner": "mlflow",
                 "repo": "mlflow",
-                "stars": 28222,
+                "stars": 28239,
                 "topics": [
                   "agentops",
                   "agents",
@@ -3450,7 +2569,7 @@
                 "open_issues": 19,
                 "owner": "optuna",
                 "repo": "optuna",
-                "stars": 14870,
+                "stars": 14873,
                 "topics": [
                   "distributed",
                   "hyperparameter-optimization",
@@ -3477,7 +2596,7 @@
                 "open_issues": 512,
                 "owner": "Netflix",
                 "repo": "metaflow",
-                "stars": 10287,
+                "stars": 10289,
                 "topics": [
                   "agents",
                   "ai",
@@ -3554,11 +2673,11 @@
                     "id": 136202695,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T06:00:45Z",
-                    "open_issues": 2151,
+                    "last_commit": "2026-10-03T04:09:23Z",
+                    "open_issues": 2153,
                     "owner": "mlflow",
                     "repo": "mlflow",
-                    "stars": 28222,
+                    "stars": 28239,
                     "topics": [
                       "agentops",
                       "agents",
@@ -3598,7 +2717,7 @@
                     "open_issues": 217,
                     "owner": "treeverse",
                     "repo": "dvc",
-                    "stars": 15898,
+                    "stars": 15901,
                     "topics": [
                       "ai",
                       "data-science",
@@ -3627,7 +2746,7 @@
                     "open_issues": 194,
                     "owner": "VertaAI",
                     "repo": "modeldb",
-                    "stars": 1750,
+                    "stars": 1752,
                     "topics": [
                       "machine-learning",
                       "mit",
@@ -3663,11 +2782,11 @@
                 "id": 103071520,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T12:48:13Z",
-                "open_issues": 73,
+                "last_commit": "2026-10-02T16:43:53Z",
+                "open_issues": 60,
                 "owner": "fivetran",
                 "repo": "great_expectations",
-                "stars": 11854,
+                "stars": 11856,
                 "topics": [
                   "cleandata",
                   "data-engineering",
@@ -3709,7 +2828,7 @@
                 "open_issues": 268,
                 "owner": "deepchecks",
                 "repo": "deepchecks",
-                "stars": 4061,
+                "stars": 4060,
                 "topics": [
                   "data-drift",
                   "data-science",
@@ -3745,7 +2864,7 @@
                 "open_issues": 21,
                 "owner": "QData",
                 "repo": "TextAttack",
-                "stars": 3476,
+                "stars": 3477,
                 "topics": [
                   "adversarial-attacks",
                   "adversarial-examples",
@@ -3820,11 +2939,11 @@
                 "id": 136202695,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T06:00:45Z",
-                "open_issues": 2151,
+                "last_commit": "2026-10-03T04:09:23Z",
+                "open_issues": 2153,
                 "owner": "mlflow",
                 "repo": "mlflow",
-                "stars": 28222,
+                "stars": 28239,
                 "topics": [
                   "agentops",
                   "agents",
@@ -3864,7 +2983,7 @@
                 "open_issues": 512,
                 "owner": "Netflix",
                 "repo": "metaflow",
-                "stars": 10287,
+                "stars": 10289,
                 "topics": [
                   "agents",
                   "ai",
@@ -3897,16 +3016,16 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.",
+                "description": "Type-safe, distributed orchestration of agents, ML pipelines, and real-time inference on your k8s — in pure Python with async/await, also other languages (rust, go and ts)",
                 "homepage": "https://flyte.org",
                 "id": 216628419,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T04:16:46Z",
-                "open_issues": 186,
+                "last_commit": "2026-10-02T20:55:07Z",
+                "open_issues": 190,
                 "owner": "flyteorg",
                 "repo": "flyte",
-                "stars": 7595,
+                "stars": 7603,
                 "topics": [
                   "agentic",
                   "ai-agents",
@@ -3944,11 +3063,11 @@
                 "id": 178075572,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T15:53:01Z",
-                "open_issues": 205,
+                "last_commit": "2026-10-02T19:27:21Z",
+                "open_issues": 207,
                 "owner": "kserve",
                 "repo": "kserve",
-                "stars": 6058,
+                "stars": 6062,
                 "topics": [
                   "artificial-intelligence",
                   "cncf",
@@ -4019,11 +3138,11 @@
                 "id": 205706595,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T08:29:05Z",
-                "open_issues": 123,
+                "last_commit": "2026-10-02T08:25:35Z",
+                "open_issues": 122,
                 "owner": "mlrun",
                 "repo": "mlrun",
-                "stars": 1701,
+                "stars": 1702,
                 "topics": [
                   "data-engineering",
                   "data-science",
@@ -4247,7 +3366,7 @@
                     "open_issues": 4,
                     "owner": "whylabs",
                     "repo": "whylogs",
-                    "stars": 2834,
+                    "stars": 2835,
                     "topics": [
                       "ai-pipelines",
                       "analytics",
@@ -4283,11 +3402,11 @@
                     "id": 205706595,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-01T08:29:05Z",
-                    "open_issues": 123,
+                    "last_commit": "2026-10-02T08:25:35Z",
+                    "open_issues": 122,
                     "owner": "mlrun",
                     "repo": "mlrun",
-                    "stars": 1701,
+                    "stars": 1702,
                     "topics": [
                       "data-engineering",
                       "data-science",
@@ -4326,7 +3445,7 @@
                     "open_issues": 323,
                     "owner": "evidentlyai",
                     "repo": "evidently",
-                    "stars": 7956,
+                    "stars": 7962,
                     "topics": [
                       "data-drift",
                       "data-quality",
@@ -4370,11 +3489,11 @@
                 "id": 161133770,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T03:58:11Z",
-                "open_issues": 458,
+                "last_commit": "2026-10-02T09:37:01Z",
+                "open_issues": 463,
                 "owner": "feast-dev",
                 "repo": "feast",
-                "stars": 7319,
+                "stars": 7320,
                 "topics": [
                   "big-data",
                   "data-engineering",
@@ -4437,11 +3556,11 @@
                 "id": 182067506,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T13:04:19Z",
-                "open_issues": 140,
+                "last_commit": "2026-10-02T16:46:52Z",
+                "open_issues": 135,
                 "owner": "kedro-org",
                 "repo": "kedro",
-                "stars": 11013,
+                "stars": 11012,
                 "topics": [
                   "agentic-ai",
                   "agentic-workflow",
@@ -4472,7 +3591,7 @@
                 "open_issues": 512,
                 "owner": "Netflix",
                 "repo": "metaflow",
-                "stars": 10287,
+                "stars": 10289,
                 "topics": [
                   "agents",
                   "ai",
@@ -4510,11 +3629,11 @@
                 "id": 314197645,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T19:44:55Z",
-                "open_issues": 166,
+                "last_commit": "2026-10-02T15:31:58Z",
+                "open_issues": 172,
                 "owner": "zenml-io",
                 "repo": "zenml",
-                "stars": 5600,
+                "stars": 5601,
                 "topics": [
                   "agentops",
                   "agents",
@@ -4586,7 +3705,7 @@
                 "open_issues": 489,
                 "owner": "diffgram",
                 "repo": "diffgram",
-                "stars": 1910,
+                "stars": 1911,
                 "topics": [
                   "annotation",
                   "annotation-tool",
@@ -4620,34 +3739,6 @@
       "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "🔙 Back to the Table of Contents",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to Natural Language Processing",
-            "homepage": null,
-            "id": 268292479,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2026-06-01T21:12:51Z",
-            "open_issues": 3,
-            "owner": "ivan-bilan",
-            "repo": "The-NLP-Pandect",
-            "stars": 2040,
-            "topics": [
-              "awesome-list",
-              "deeplearning",
-              "natural-language-processing",
-              "naturallanguageprocessing",
-              "nlp",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-28T12:09:57.007Z"
-        },
-        {
           "children": [
             {
               "node_type": "item",
@@ -4665,7 +3756,7 @@
                 "open_issues": 1,
                 "owner": "gmihaila",
                 "repo": "ml_things",
-                "stars": 266,
+                "stars": 265,
                 "topics": [
                   "google-colab",
                   "machine-learning",
@@ -4735,7 +3826,7 @@
             "open_issues": 305,
             "owner": "jina-ai",
             "repo": "clip-as-service",
-            "stars": 12833,
+            "stars": 12832,
             "topics": [
               "bert",
               "bert-as-service",
@@ -4820,7 +3911,7 @@
             "open_issues": 66,
             "owner": "microsoft",
             "repo": "nlp-recipes",
-            "stars": 6425,
+            "stars": 6424,
             "topics": [
               "azure-ml",
               "best-practices",
@@ -5099,34 +4190,6 @@
             ]
           },
           "first_seen": "2026-08-28T12:09:57.007Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🔙 Back to the Table of Contents",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to Natural Language Processing",
-            "homepage": null,
-            "id": 268292479,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2026-06-01T21:12:51Z",
-            "open_issues": 3,
-            "owner": "ivan-bilan",
-            "repo": "The-NLP-Pandect",
-            "stars": 2040,
-            "topics": [
-              "awesome-list",
-              "deeplearning",
-              "natural-language-processing",
-              "naturallanguageprocessing",
-              "nlp",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-28T12:09:57.007Z"
         }
       ],
       "title": "NLP Applications in Bio, Finance, Legal and other industries"
@@ -5150,7 +4213,7 @@
             "open_issues": 151,
             "owner": "mozilla",
             "repo": "DeepSpeech",
-            "stars": 26771,
+            "stars": 26772,
             "topics": [
               "deep-learning",
               "deepspeech",
@@ -5209,8 +4272,8 @@
             "id": 114054873,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T21:39:22Z",
-            "open_issues": 106,
+            "last_commit": "2026-10-02T20:51:09Z",
+            "open_issues": 110,
             "owner": "espnet",
             "repo": "espnet",
             "stars": 9976,
@@ -5313,7 +4376,7 @@
             "open_issues": 3,
             "owner": "coqui-ai",
             "repo": "TTS",
-            "stars": 46098,
+            "stars": 46099,
             "topics": [
               "deep-learning",
               "glow-tts",
@@ -5385,7 +4448,7 @@
             "open_issues": 158,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 109857,
+            "stars": 109887,
             "topics": []
           },
           "first_seen": "2026-08-28T12:09:57.007Z"
@@ -5403,10 +4466,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-02T02:01:33Z",
-            "open_issues": 205,
+            "open_issues": 206,
             "owner": "thewh1teagle",
             "repo": "vibe",
-            "stars": 7674,
+            "stars": 7675,
             "topics": [
               "ai",
               "cross-platform",
@@ -5445,34 +4508,6 @@
             "topics": []
           },
           "first_seen": "2026-08-28T12:09:57.007Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🔙 Back to the Table of Contents",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to Natural Language Processing",
-            "homepage": null,
-            "id": 268292479,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2026-06-01T21:12:51Z",
-            "open_issues": 3,
-            "owner": "ivan-bilan",
-            "repo": "The-NLP-Pandect",
-            "stars": 2040,
-            "topics": [
-              "awesome-list",
-              "deeplearning",
-              "natural-language-processing",
-              "naturallanguageprocessing",
-              "nlp",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-28T12:09:57.007Z"
         }
       ],
       "title": "Datasets"
@@ -5496,7 +4531,7 @@
             "open_issues": 440,
             "owner": "piskvorky",
             "repo": "gensim",
-            "stars": 16494,
+            "stars": 16496,
             "topics": [
               "data-mining",
               "data-science",
@@ -5581,7 +4616,7 @@
             "open_issues": 473,
             "owner": "MaartenGr",
             "repo": "BERTopic",
-            "stars": 7867,
+            "stars": 7869,
             "topics": [
               "bert",
               "ldavis",
@@ -5649,7 +4684,7 @@
             "open_issues": 11,
             "owner": "MilaNLProc",
             "repo": "contextualized-topic-models",
-            "stars": 1274,
+            "stars": 1273,
             "topics": [
               "bert",
               "embeddings",
@@ -5808,34 +4843,6 @@
             ]
           },
           "first_seen": "2026-08-28T12:09:57.007Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🔙 Back to the Table of Contents",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to Natural Language Processing",
-            "homepage": null,
-            "id": 268292479,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2026-06-01T21:12:51Z",
-            "open_issues": 3,
-            "owner": "ivan-bilan",
-            "repo": "The-NLP-Pandect",
-            "stars": 2040,
-            "topics": [
-              "awesome-list",
-              "deeplearning",
-              "natural-language-processing",
-              "naturallanguageprocessing",
-              "nlp",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-28T12:09:57.007Z"
         }
       ],
       "title": "Repositories"
@@ -5927,7 +4934,7 @@
             "open_issues": 28,
             "owner": "INESCTEC",
             "repo": "yake",
-            "stars": 1884,
+            "stars": 1885,
             "topics": [
               "ai",
               "corpus-independent",
@@ -6063,7 +5070,7 @@
             "open_issues": 77,
             "owner": "MaartenGr",
             "repo": "KeyBERT",
-            "stars": 4221,
+            "stars": 4220,
             "topics": [
               "bert",
               "keyphrase-extraction",
@@ -6306,7 +5313,7 @@
                 "open_issues": 45,
                 "owner": "interpretml",
                 "repo": "interpret",
-                "stars": 6952,
+                "stars": 6954,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -6680,34 +5687,6 @@
             "topics": []
           },
           "first_seen": "2026-08-28T12:09:57.007Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🔙 Back to the Table of Contents",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to Natural Language Processing",
-            "homepage": null,
-            "id": 268292479,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2026-06-01T21:12:51Z",
-            "open_issues": 3,
-            "owner": "ivan-bilan",
-            "repo": "The-NLP-Pandect",
-            "stars": 2040,
-            "topics": [
-              "awesome-list",
-              "deeplearning",
-              "natural-language-processing",
-              "naturallanguageprocessing",
-              "nlp",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-28T12:09:57.007Z"
         }
       ],
       "title": "NLP & Security"
@@ -6731,7 +5710,7 @@
             "open_issues": 248,
             "owner": "explosion",
             "repo": "spaCy",
-            "stars": 33934,
+            "stars": 33933,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -6770,7 +5749,7 @@
             "open_issues": 440,
             "owner": "piskvorky",
             "repo": "gensim",
-            "stars": 16494,
+            "stars": 16496,
             "topics": [
               "data-mining",
               "data-science",
@@ -6807,7 +5786,7 @@
             "open_issues": 251,
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14732,
+            "stars": 14731,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -6834,7 +5813,7 @@
             "open_issues": 33,
             "owner": "flairNLP",
             "repo": "flair",
-            "stars": 14391,
+            "stars": 14390,
             "topics": [
               "machine-learning",
               "named-entity-recognition",
@@ -6892,7 +5871,7 @@
             "open_issues": 74,
             "owner": "sloria",
             "repo": "TextBlob",
-            "stars": 9551,
+            "stars": 9550,
             "topics": [
               "natural-language-processing",
               "nlp",
@@ -6919,7 +5898,7 @@
             "open_issues": 92,
             "owner": "stanfordnlp",
             "repo": "stanza",
-            "stars": 7891,
+            "stars": 7889,
             "topics": [
               "artificial-intelligence",
               "corenlp",
@@ -7078,7 +6057,7 @@
             "open_issues": 7,
             "owner": "deepset-ai",
             "repo": "FARM",
-            "stars": 1753,
+            "stars": 1752,
             "topics": [
               "bert",
               "deep-learning",
@@ -7142,7 +6121,7 @@
             "open_issues": 34,
             "owner": "kakaobrain",
             "repo": "pororo",
-            "stars": 1304,
+            "stars": 1303,
             "topics": [
               "automatic-speech-recognition",
               "deep-learning",
@@ -7319,7 +6298,7 @@
             "open_issues": 41,
             "owner": "joke2k",
             "repo": "faker",
-            "stars": 19424,
+            "stars": 19422,
             "topics": [
               "dataset",
               "fake",
@@ -7350,7 +6329,7 @@
             "open_issues": 18,
             "owner": "snorkel-team",
             "repo": "snorkel",
-            "stars": 6011,
+            "stars": 6012,
             "topics": [
               "ai",
               "data-augmentation",
@@ -7601,7 +6580,7 @@
             "open_issues": 21,
             "owner": "QData",
             "repo": "TextAttack",
-            "stars": 3476,
+            "stars": 3477,
             "topics": [
               "adversarial-attacks",
               "adversarial-examples",
@@ -7654,11 +6633,11 @@
             "id": 155220641,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T05:06:36Z",
-            "open_issues": 2354,
+            "last_commit": "2026-10-03T03:54:50Z",
+            "open_issues": 2360,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 166899,
+            "stars": 166909,
             "topics": [
               "audio",
               "deep-learning",
@@ -7695,11 +6674,11 @@
             "id": 221654678,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T02:20:21Z",
-            "open_issues": 151,
+            "last_commit": "2026-10-02T15:30:35Z",
+            "open_issues": 147,
             "owner": "deepset-ai",
             "repo": "haystack",
-            "stars": 26638,
+            "stars": 26645,
             "topics": [
               "agent-framework",
               "agentic-ai",
@@ -7778,7 +6757,7 @@
             "open_issues": 155,
             "owner": "RasaHQ",
             "repo": "rasa",
-            "stars": 21335,
+            "stars": 21340,
             "topics": [
               "bot",
               "bot-framework",
@@ -7820,7 +6799,7 @@
             "open_issues": 72,
             "owner": "gunthercox",
             "repo": "ChatterBot",
-            "stars": 14522,
+            "stars": 14519,
             "topics": [
               "bot",
               "chatbot",
@@ -7849,7 +6828,7 @@
             "open_issues": 192,
             "owner": "speechbrain",
             "repo": "speechbrain",
-            "stars": 11852,
+            "stars": 11851,
             "topics": [
               "asr",
               "audio",
@@ -8005,7 +6984,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T20:19:25Z",
-            "open_issues": 1360,
+            "open_issues": 1365,
             "owner": "huggingface",
             "repo": "sentence-transformers",
             "stars": 19144,
@@ -8394,7 +7373,7 @@
             "open_issues": 289,
             "owner": "OpenNMT",
             "repo": "CTranslate2",
-            "stars": 4691,
+            "stars": 4692,
             "topics": [
               "avx",
               "avx2",
@@ -8436,7 +7415,7 @@
             "open_issues": 97,
             "owner": "marian-nmt",
             "repo": "marian",
-            "stars": 1472,
+            "stars": 1473,
             "topics": [
               "cuda",
               "fast",
@@ -8544,7 +7523,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-24T02:57:42Z",
-            "open_issues": 916,
+            "open_issues": 918,
             "owner": "FlagOpen",
             "repo": "FlagEmbedding",
             "stars": 12211,
@@ -8575,7 +7554,7 @@
             "open_issues": 106,
             "owner": "seatgeek",
             "repo": "fuzzywuzzy",
-            "stars": 9245,
+            "stars": 9244,
             "topics": []
           },
           "first_seen": "2026-08-28T12:09:57.007Z"
@@ -8928,7 +7907,7 @@
             "open_issues": 4,
             "owner": "do-me",
             "repo": "SemanticFinder",
-            "stars": 325,
+            "stars": 326,
             "topics": [
               "ai",
               "codemirror",
@@ -9017,7 +7996,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-30T05:51:57Z",
-                "open_issues": 7,
+                "open_issues": 6,
                 "owner": "megagonlabs",
                 "repo": "ginza",
                 "stars": 873,
@@ -9141,7 +8120,7 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-04-17T00:43:07Z",
-                "open_issues": 30,
+                "open_issues": 36,
                 "owner": "ku-nlp",
                 "repo": "jumanpp",
                 "stars": 413,
@@ -9394,7 +8373,7 @@
                 "open_issues": 2,
                 "owner": "Stereotypes-in-LLMs",
                 "repo": "recruitment-dataset",
-                "stars": 16,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:09:57.007Z"
@@ -9457,7 +8436,7 @@
                 "open_issues": 38,
                 "owner": "undertheseanlp",
                 "repo": "underthesea",
-                "stars": 1806,
+                "stars": 1807,
                 "topics": [
                   "agentic-ai",
                   "agents",
@@ -9546,7 +8525,7 @@
             "open_issues": 399,
             "owner": "doccano",
             "repo": "doccano",
-            "stars": 10788,
+            "stars": 10787,
             "topics": [
               "annotation-tool",
               "data-labeling",
@@ -9637,7 +8616,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-28T21:00:32Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "webis-de",
             "repo": "small-text",
             "stars": 647,
@@ -9655,34 +8634,6 @@
               "small-language-models",
               "text-classification",
               "transformers"
-            ]
-          },
-          "first_seen": "2026-08-28T12:09:57.007Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🔙 Back to the Table of Contents",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to Natural Language Processing",
-            "homepage": null,
-            "id": 268292479,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2026-06-01T21:12:51Z",
-            "open_issues": 3,
-            "owner": "ivan-bilan",
-            "repo": "The-NLP-Pandect",
-            "stars": 2040,
-            "topics": [
-              "awesome-list",
-              "deeplearning",
-              "natural-language-processing",
-              "naturallanguageprocessing",
-              "nlp",
-              "pandect"
             ]
           },
           "first_seen": "2026-08-28T12:09:57.007Z"
@@ -9753,7 +8704,7 @@
                 "open_issues": 40,
                 "owner": "graykode",
                 "repo": "nlp-tutorial",
-                "stars": 14932,
+                "stars": 14931,
                 "topics": [
                   "attention",
                   "bert",
@@ -9784,7 +8735,7 @@
                 "open_issues": 314,
                 "owner": "NielsRogge",
                 "repo": "Transformers-Tutorials",
-                "stars": 11752,
+                "stars": 11754,
                 "topics": [
                   "bert",
                   "gpt-2",
@@ -9882,34 +8833,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T12:09:57.007Z"
-            },
-            {
-              "node_type": "item",
-              "title": "🔙 Back to the Table of Contents",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A comprehensive reference for all topics related to Natural Language Processing",
-                "homepage": null,
-                "id": 268292479,
-                "language": "Python",
-                "license": "CC0-1.0",
-                "last_commit": "2026-06-01T21:12:51Z",
-                "open_issues": 3,
-                "owner": "ivan-bilan",
-                "repo": "The-NLP-Pandect",
-                "stars": 2040,
-                "topics": [
-                  "awesome-list",
-                  "deeplearning",
-                  "natural-language-processing",
-                  "naturallanguageprocessing",
-                  "nlp",
-                  "pandect"
-                ]
-              },
-              "first_seen": "2026-08-28T12:09:57.007Z"
             }
           ],
           "description": null,
@@ -9930,11 +8853,11 @@
                 "id": 84183882,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T15:03:25Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-03T02:32:22Z",
+                "open_issues": 7,
                 "owner": "google",
                 "repo": "sentencepiece",
-                "stars": 12107,
+                "stars": 12109,
                 "topics": [
                   "natural-language-processing",
                   "neural-machine-translation",
@@ -9955,11 +8878,11 @@
                 "id": 219035799,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T16:47:04Z",
-                "open_issues": 211,
+                "last_commit": "2026-10-02T14:53:13Z",
+                "open_issues": 212,
                 "owner": "huggingface",
                 "repo": "tokenizers",
-                "stars": 11147,
+                "stars": 11149,
                 "topics": [
                   "bert",
                   "gpt",
@@ -10024,7 +8947,7 @@
                     "open_issues": 18,
                     "owner": "snorkel-team",
                     "repo": "snorkel",
-                    "stars": 6011,
+                    "stars": 6012,
                     "topics": [
                       "ai",
                       "data-augmentation",
@@ -10088,7 +9011,7 @@
                     "open_issues": 21,
                     "owner": "QData",
                     "repo": "TextAttack",
-                    "stars": 3476,
+                    "stars": 3477,
                     "topics": [
                       "adversarial-attacks",
                       "adversarial-examples",
@@ -10710,7 +9633,7 @@
                 "open_issues": 25,
                 "owner": "shibing624",
                 "repo": "pycorrector",
-                "stars": 6530,
+                "stars": 6529,
                 "topics": [
                   "csc",
                   "error-correction",
@@ -10895,10 +9818,10 @@
                 "language": "JavaScript",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-01T21:28:50Z",
-                "open_issues": 166,
+                "open_issues": 167,
                 "owner": "alam00000",
                 "repo": "bentopdf",
-                "stars": 15811,
+                "stars": 15817,
                 "topics": [
                   "adobe-acrobat",
                   "docker",
@@ -11072,7 +9995,7 @@
                 "open_issues": 105,
                 "owner": "LDNOOBW",
                 "repo": "List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words",
-                "stars": 3458,
+                "stars": 3456,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:09:57.007Z"
@@ -11205,7 +10128,7 @@
                 "open_issues": 19,
                 "owner": "optuna",
                 "repo": "optuna",
-                "stars": 14870,
+                "stars": 14873,
                 "topics": [
                   "distributed",
                   "hyperparameter-optimization",
@@ -11274,7 +10197,7 @@
                 "open_issues": 2,
                 "owner": "huggingface",
                 "repo": "autotrain-advanced",
-                "stars": 4615,
+                "stars": 4614,
                 "topics": [
                   "autotrain",
                   "deep-learning",
@@ -11299,11 +10222,11 @@
                 "id": 289107293,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-01T04:18:52Z",
+                "last_commit": "2026-10-03T04:08:51Z",
                 "open_issues": 180,
                 "owner": "microsoft",
                 "repo": "FLAML",
-                "stars": 4401,
+                "stars": 4400,
                 "topics": [
                   "automated-machine-learning",
                   "automl",
@@ -11518,7 +10441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T06:07:47.686Z",
+    "last_updated": "2026-10-03T04:30:15.974Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive reference for all topics related to Natural Language Processing",

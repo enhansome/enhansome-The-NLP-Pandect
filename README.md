@@ -49,10 +49,10 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 #### Compendiums and awesome lists on the topic of NLP:
 
-* ⭐ [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 142,346 | 🐛 15 | 🌐 Python | 📅 2026-10-18 \[GitHub, 112502 stars]
-* ⭐ [Awesome NLP](https://github.com/keon/awesome-nlp) ⭐ 19,089 | 🐛 2 | 📅 2026-10-12 by [keon](https://github.com/keon) \[GitHub, 18674 stars]
+* ⭐ [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 142,455 | 🐛 15 | 🌐 Python | 📅 2026-10-18 \[GitHub, 112502 stars]
+* ⭐ [Awesome NLP](https://github.com/keon/awesome-nlp) ⭐ 19,091 | 🐛 2 | 📅 2026-10-12 by [keon](https://github.com/keon) \[GitHub, 18674 stars]
 * ⭐ [Speech and Natural Language Processing Awesome List](https://github.com/edobashira/speech-language-processing#readme) ⭐ 2,227 | 🐛 18 | 📅 2019-04-02 by [elaboshira](https://github.com/edobashira) \[GitHub, 2224 stars]
-* ⭐ [Awesome AI/ML/DL - NLP Section](https://github.com/neomatrix369/awesome-ai-ml-dl/tree/master/natural-language-processing#natural-language-processing-nlp) ⭐ 1,718 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2026-09-13 \[GitHub, 1668 stars]
+* ⭐ [Awesome AI/ML/DL - NLP Section](https://github.com/neomatrix369/awesome-ai-ml-dl/tree/master/natural-language-processing#natural-language-processing-nlp) ⭐ 1,720 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2026-09-13 \[GitHub, 1668 stars]
 * ⭐ [Awesome Deep Learning for Natural Language Processing (NLP)](https://github.com/brianspiering/awesome-dl4nlp) ⭐ 1,311 | 🐛 2 | 📅 2026-01-24 \[GitHub, 1307 stars]
 * ⭐ [Text Mining and Natural Language Processing Resources](https://github.com/stepthom/text_mining_resources) ⭐ 599 | 🐛 0 | 📅 2023-02-09 by [stepthom](https://github.com/stepthom) \[GitHub, 598 stars]
 * 🗂️ [The NLP Index](https://index.quantumstat.com) - Searchable Index of NLP Papers by Quantum Stat / NLP Cypher
@@ -63,8 +63,8 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 ##### Papers and Paper Summaries
 
-* ⭐ [100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers) ⭐ 3,851 | 🐛 2 | 📅 2021-07-09 100 Must-Read NLP Papers \[GitHub, 3846 stars]
-* ⭐ [A Survey of Surveys (NLP & ML): Collection of NLP Survey Papers](https://github.com/NiuTrans/ABigSurvey) ⭐ 2,030 | 🐛 3 | 📅 2024-03-31 \[GitHub, 2031 stars]
+* ⭐ [100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers) ⭐ 3,852 | 🐛 2 | 📅 2021-07-09 100 Must-Read NLP Papers \[GitHub, 3846 stars]
+* ⭐ [A Survey of Surveys (NLP & ML): Collection of NLP Survey Papers](https://github.com/NiuTrans/ABigSurvey) ⭐ 2,031 | 🐛 3 | 📅 2024-03-31 \[GitHub, 2031 stars]
 * ⭐ [A Paper List for Style Transfer in Text](https://github.com/fuzhenxin/Style-Transfer-in-Text) ⭐ 1,629 | 🐛 2 | 📅 2023-03-16 \[GitHub, 1623 stars]
 * ⭐ [Papers on Textual Adversarial Attack and Defense](https://github.com/thunlp/TAADpapers) ⭐ 1,575 | 🐛 4 | 🌐 Python | 📅 2025-06-04 \[GitHub, 1574 stars]
 * ⭐ [NLP Paper Summaries](https://github.com/dair-ai/nlp_paper_summaries) ⭐ 1,475 | 🐛 14 | 📅 2021-12-04 by [dair-ai](https://github.com/dair-ai) \[GitHub, 1477 stars]
@@ -86,7 +86,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 #### NLP Datasets:
 
-* ⭐ [Datasets](https://github.com/huggingface/datasets) ⭐ 22,068 | 🐛 1,521 | 🌐 Python | 📅 2026-10-19 by Huggingface \[GitHub, 21559 stars]
+* ⭐ [Datasets](https://github.com/huggingface/datasets) ⭐ 22,076 | 🐛 1,529 | 🌐 Python | 📅 2026-10-19 by Huggingface \[GitHub, 21559 stars]
 * ⭐ [NLP Datasets](https://github.com/niderhoff/nlp-datasets) ⭐ 6,003 | 🐛 12 | 📅 2023-02-15 by [niderhoff](https://github.com/niderhoff) \[GitHub, 5982 stars]
 * ⭐ [MLDoc](https://github.com/facebookresearch/MLDoc) ⚠️ Archived - Corpus for Multilingual Document Classification in Eight Language \[GitHub, 153 stars]
 * 🗂️ [Big Bad NLP Database](https://datasets.quantumstat.com)
@@ -105,10 +105,10 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 #### Non-English resources and Compendiums
 
-* ⭐ [zemberek-nlp](https://github.com/ahmetaa/zemberek-nlp) ⭐ 1,370 | 🐛 51 | 🌐 Java | 📅 2026-10-04 - NLP tools for Turkish \[GitHub, 1331 stars]
+* ⭐ [zemberek-nlp](https://github.com/ahmetaa/zemberek-nlp) ⭐ 1,372 | 🐛 51 | 🌐 Java | 📅 2026-10-04 - NLP tools for Turkish \[GitHub, 1331 stars]
 * ⭐ [Natural Language Toolkit for Indic Languages (iNLTK)](https://github.com/goru001/inltk) ⭐ 840 | 🐛 39 | 🌐 Python | 📅 2024-01-20 \[GitHub, 840 stars]
 * ⭐ [Pre-trained language models for Vietnamese](https://github.com/VinAIResearch/PhoBERT) ⭐ 809 | 🐛 4 | 📅 2026-08-04 \[GitHub, 788 stars]
-* ⭐ [Indic NLP Library](https://github.com/anoopkunchukuttan/indic_nlp_library) ⭐ 651 | 🐛 34 | 🌐 Python | 📅 2024-06-07 \[GitHub, 638 stars]
+* ⭐ [Indic NLP Library](https://github.com/anoopkunchukuttan/indic_nlp_library) ⭐ 653 | 🐛 34 | 🌐 Python | 📅 2024-06-07 \[GitHub, 638 stars]
 * ⭐ [Indic NLP Catalog](https://github.com/AI4Bharat/indicnlp_catalog) ⭐ 640 | 🐛 152 | 📅 2024-12-14 \[GitHub, 632 stars]
 * ⭐ [KLUE](https://github.com/KLUE-benchmark/KLUE) ⭐ 606 | 🐛 19 | 📅 2026-06-30 - Korean Language Understanding Evaluation \[GitHub, 595 stars]
 * ⭐ [NLP Resources for Bahasa Indonesian](https://github.com/louisowen6/NLP_bahasa_resources) ⭐ 576 | 🐛 2 | 📅 2023-02-17 \[GitHub, 572 stars]
@@ -121,7 +121,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 #### Pre-trained NLP models
 
-* ⭐ [Pretrained language models developed by Huawei Noah's Ark Lab](https://github.com/huawei-noah/Pretrained-Language-Model) ⭐ 3,166 | 🐛 109 | 🌐 Python | 📅 2024-01-22 \[GitHub, 3160 stars]
+* ⭐ [Pretrained language models developed by Huawei Noah's Ark Lab](https://github.com/huawei-noah/Pretrained-Language-Model) ⭐ 3,167 | 🐛 109 | 🌐 Python | 📅 2024-01-22 \[GitHub, 3160 stars]
 * ⭐ [Spanish Language Models and resources](https://github.com/PlanTL-GOB-ES/lm-spanish) ⭐ 265 | 🐛 5 | 🌐 Python | 📅 2023-07-27 \[GitHub, 263 stars]
 * ⭐ [List of pre-trained NLP models](https://github.com/balavenkatesh3322/NLP-pretrained-model) ⭐ 169 | 🐛 0 | 📅 2020-07-22 \[GitHub, 170 stars]
 
@@ -267,7 +267,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 #### Cross-lingual Word and Sentence Embeddings
 
-* ⭐ [sentence-transformers](https://github.com/UKPLab/sentence-transformers) ⭐ 19,193 | 🐛 1,307 | 🌐 Python | 📅 2026-10-19 - Multilingual Sentence & Image Embeddings with BERT \[GitHub, 18765 stars]
+* ⭐ [sentence-transformers](https://github.com/UKPLab/sentence-transformers) ⭐ 19,201 | 🐛 1,306 | 🌐 Python | 📅 2026-10-20 - Multilingual Sentence & Image Embeddings with BERT \[GitHub, 18765 stars]
 * ⭐ [vecmap](https://github.com/artetxem/vecmap) ⭐ 654 | 🐛 15 | 🌐 Python | 📅 2023-04-22 - VecMap (cross-lingual word embedding mappings) \[GitHub, 654 stars]
 
 #### Byte Pair Encoding
@@ -412,7 +412,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 ### Small LLMs
 
-* [smollm](https://github.com/huggingface/smollm/blob/main/text/README.md) ⭐ 3,928 | 🐛 61 | 🌐 Python | 📅 2026-10-06 - 3B parameter language model designed to push the boundaries of small models \[GitHub, 3797 stars]
+* [smollm](https://github.com/huggingface/smollm/blob/main/text/README.md) ⭐ 3,929 | 🐛 61 | 🌐 Python | 📅 2026-10-06 - 3B parameter language model designed to push the boundaries of small models \[GitHub, 3797 stars]
 
 ## ![The-NLP-Industry](./Resources/Images/pandect_industry.png)
 
@@ -453,12 +453,12 @@ Additionally, there are two more components that are not as prevalent for NLP an
 #### MLOps Compilations & Awesome Lists
 
 * ⭐ [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) ⭐ 23,848 | 🐛 60 | 📅 2026-10-15 \[GitHub, 23609 stars]
-* ⭐ [awesome-mlops](https://github.com/visenger/awesome-mlops) ⭐ 14,245 | 🐛 47 | 📅 2024-11-21 \[GitHub, 13923 stars]
+* ⭐ [awesome-mlops](https://github.com/visenger/awesome-mlops) ⭐ 14,244 | 🐛 47 | 📅 2024-11-21 \[GitHub, 13923 stars]
 
 #### Running LLMs locally or self-hosted
 
-* ⭐ [llama.cpp](https://github.com/ggml-org/llama.cpp) ⭐ 131,756 | 🐛 2,556 | 🌐 C++ | 📅 2026-10-20 \[GitHub, 114160 stars]
-* ⭐ [vLLM](https://github.com/vllm-project/vllm) ⭐ 94,175 | 🐛 9,105 | 🌐 Python | 📅 2026-10-20 \[GitHub, 81616 stars]
+* ⭐ [llama.cpp](https://github.com/ggml-org/llama.cpp) ⭐ 131,870 | 🐛 2,559 | 🌐 C++ | 📅 2026-10-21 \[GitHub, 114160 stars]
+* ⭐ [vLLM](https://github.com/vllm-project/vllm) ⭐ 94,522 | 🐛 9,179 | 🌐 Python | 📅 2026-10-21 \[GitHub, 81616 stars]
 * 🔱 [ollama](https://ollama.com/) \[Free Local & Paid Cloud Service]
 
 #### Reading Material
@@ -494,10 +494,10 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 #### Experiment Tracking
 
-* ⭐ [mlflow](https://mlflow.org/) - open source platform for the machine learning lifecycle \[Free and Open Source] [Link to GitHub](https://github.com/mlflow/mlflow/) ⭐ 28,454 | 🐛 2,216 | 🌐 Python | 📅 2026-10-20
-* ⭐ [Optuna](https://github.com/optuna/optuna) ⭐ 14,942 | 🐛 29 | 🌐 Python | 📅 2026-10-20 - hyperparameter optimization framework \[GitHub, 14280 stars]
-* ⭐ [Metaflow](https://github.com/Netflix/metaflow) ⭐ 10,309 | 🐛 530 | 🌐 Python | 📅 2026-10-16 - human-friendly Python/R library that helps scientists and engineers build and manage real-life data science projects \[GitHub, 10111 stars]
-* ⭐ [Clear ML](https://clear.ml/) - experiment, orchestrate, deploy, and build data stores, all in one place \[Free and Open Source] [Link to GitHub](https://github.com/allegroai/clearml/) ⭐ 6,910 | 🐛 523 | 🌐 Python | 📅 2026-10-20
+* ⭐ [mlflow](https://mlflow.org/) - open source platform for the machine learning lifecycle \[Free and Open Source] [Link to GitHub](https://github.com/mlflow/mlflow/) ⭐ 28,472 | 🐛 2,217 | 🌐 Python | 📅 2026-10-21
+* ⭐ [Optuna](https://github.com/optuna/optuna) ⭐ 14,944 | 🐛 26 | 🌐 Python | 📅 2026-10-21 - hyperparameter optimization framework \[GitHub, 14280 stars]
+* ⭐ [Metaflow](https://github.com/Netflix/metaflow) ⭐ 10,308 | 🐛 530 | 🌐 Python | 📅 2026-10-16 - human-friendly Python/R library that helps scientists and engineers build and manage real-life data science projects \[GitHub, 10111 stars]
+* ⭐ [Clear ML](https://clear.ml/) - experiment, orchestrate, deploy, and build data stores, all in one place \[Free and Open Source] [Link to GitHub](https://github.com/allegroai/clearml/) ⭐ 6,911 | 🐛 523 | 🌐 Python | 📅 2026-10-20
 * 🔱 [Weights & Biases](https://wandb.ai/site) - tools for experiment tracking and dataset versioning \[Paid Service]
 * 🔱 [Neptune AI](https://neptune.ai/) - experiment tracking and model registry built for research and production teams \[Paid Service]
 * 🔱 [Comet ML](https://www.comet.ml/site/) - enables data scientists and teams to track, compare, explain and optimize experiments and models \[Paid Service]
@@ -505,7 +505,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 ##### Model Registry
 
-* ⭐ [mlflow](https://mlflow.org/) - open source platform for the machine learning lifecycle \[Free and Open Source] [Link to GitHub](https://github.com/mlflow/mlflow/) ⭐ 28,454 | 🐛 2,216 | 🌐 Python | 📅 2026-10-20
+* ⭐ [mlflow](https://mlflow.org/) - open source platform for the machine learning lifecycle \[Free and Open Source] [Link to GitHub](https://github.com/mlflow/mlflow/) ⭐ 28,472 | 🐛 2,217 | 🌐 Python | 📅 2026-10-21
 * ⭐ [DVC](https://dvc.org/) - Data Version Control (DVC) tracks ML models and data sets \[Free and Open Source] [Link to GitHub](https://github.com/iterative/dvc) ⭐ 15,930 | 🐛 222 | 🌐 Python | 📅 2026-10-19
 * ⭐ [ModelDB](https://github.com/VertaAI/modeldb) ⭐ 1,752 | 🐛 194 | 🌐 Java | 📅 2024-07-23 - open-source system for Machine Learning model versioning, metadata, and experiment management \[GitHub, 1747 stars]
 * 🔱 [Neptune AI](https://neptune.ai/) - experiment tracking and model registry built for research and production teams \[Paid Service]
@@ -516,20 +516,20 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 #### Automated Testing and Behavioral Testing
 
-* ⭐ [Great Expectations](https://github.com/great-expectations/great_expectations) ⭐ 11,886 | 🐛 57 | 🌐 Python | 📅 2026-10-16 - Write tests for your data \[GitHub, 11532 stars]
+* ⭐ [Great Expectations](https://github.com/great-expectations/great_expectations) ⭐ 11,887 | 🐛 56 | 🌐 Python | 📅 2026-10-20 - Write tests for your data \[GitHub, 11532 stars]
 * ⭐ [Deepchecks](https://github.com/deepchecks/deepchecks) ⭐ 4,064 | 🐛 270 | 🌐 Python | 📅 2025-12-28 - Python package for comprehensively validating your machine learning models and data \[GitHub, 4017 stars]
-* ⭐ [TextAttack](https://github.com/QData/TextAttack) ⭐ 3,477 | 🐛 21 | 🌐 Python | 📅 2026-08-15 - framework for adversarial attacks, data augmentation, and model training in NLP \[GitHub, 3427 stars]
+* ⭐ [TextAttack](https://github.com/QData/TextAttack) ⭐ 3,476 | 🐛 21 | 🌐 Python | 📅 2026-08-15 - framework for adversarial attacks, data augmentation, and model training in NLP \[GitHub, 3427 stars]
 * ⭐ [CheckList](https://github.com/marcotcr/checklist) ⭐ 2,051 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2024-01-09 - Beyond Accuracy: Behavioral Testing of NLP models \[GitHub, 2050 stars]
 * ⭐ [WildNLP](https://github.com/MI2DataLab/WildNLP) ⭐ 75 | 🐛 4 | 🌐 Python | 📅 2023-05-22 - Corrupt an input text to test NLP models' robustness \[GitHub, 76 stars]
 
 #### Model Deployability and Serving
 
-* ⭐ [mlflow](https://mlflow.org/) - open source platform for the machine learning lifecycle \[Free and Open Source] [Link to GitHub](https://github.com/mlflow/mlflow/) ⭐ 28,454 | 🐛 2,216 | 🌐 Python | 📅 2026-10-20
-* ⭐ [Metaflow](https://github.com/Netflix/metaflow) ⭐ 10,309 | 🐛 530 | 🌐 Python | 📅 2026-10-16 - human-friendly Python/R library that helps scientists and engineers build and manage real-life data science projects \[GitHub, 10111 stars]
-* ⭐ [flyte](https://github.com/flyteorg/flyte) ⭐ 7,733 | 🐛 197 | 🌐 Go | 📅 2026-10-20 - workflow automation platform for complex, mission-critical data and ML processes at scale \[GitHub, 7056 stars]
-* ⭐ [KFServing](https://github.com/kubeflow/kfserving) ⭐ 6,133 | 🐛 208 | 🌐 Go | 📅 2026-10-19 - Serverless Inferencing on Kubernetes \[GitHub, 5534 stars]
+* ⭐ [mlflow](https://mlflow.org/) - open source platform for the machine learning lifecycle \[Free and Open Source] [Link to GitHub](https://github.com/mlflow/mlflow/) ⭐ 28,472 | 🐛 2,217 | 🌐 Python | 📅 2026-10-21
+* ⭐ [Metaflow](https://github.com/Netflix/metaflow) ⭐ 10,308 | 🐛 530 | 🌐 Python | 📅 2026-10-16 - human-friendly Python/R library that helps scientists and engineers build and manage real-life data science projects \[GitHub, 10111 stars]
+* ⭐ [flyte](https://github.com/flyteorg/flyte) ⭐ 7,741 | 🐛 200 | 🌐 Go | 📅 2026-10-21 - workflow automation platform for complex, mission-critical data and ML processes at scale \[GitHub, 7056 stars]
+* ⭐ [KFServing](https://github.com/kubeflow/kfserving) ⭐ 6,141 | 🐛 213 | 🌐 Go | 📅 2026-10-20 - Serverless Inferencing on Kubernetes \[GitHub, 5534 stars]
 * ⭐ [TorchServe](https://github.com/pytorch/serve) ⚠️ Archived - flexible and easy to use tool for serving PyTorch models \[GitHub, 4359 stars]
-* ⭐ [MLRun](https://github.com/mlrun/mlrun) ⭐ 1,704 | 🐛 126 | 🌐 Python | 📅 2026-10-19 - Machine Learning automation and tracking \[GitHub, 1670 stars]
+* ⭐ [MLRun](https://github.com/mlrun/mlrun) ⭐ 1,704 | 🐛 127 | 🌐 Python | 📅 2026-10-20 - Machine Learning automation and tracking \[GitHub, 1670 stars]
 * ⭐ [End2End Serverless Transformers On AWS Lambda](https://github.com/bhavsarpratik/serverless-transformers-on-aws-lambda) ⭐ 122 | 🐛 5 | 🌐 Python | 📅 2021-08-20 \[GitHub, 122 stars]
 * ⭐ [NLP-Service](https://github.com/karndeb/NLP-Service) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2021-08-04 - sample demo of NLP as a service platform built using FastAPI and Hugging Face \[GitHub, 13 stars]
 * 🔱 [Amazon SageMaker](https://aws.amazon.com/de/sagemaker/) \[Paid Service]
@@ -560,9 +560,9 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 ##### General
 
-* ⭐ [Rubrix](https://github.com/recognai/rubrix) ⭐ 5,162 | 🐛 38 | 🌐 Python | 📅 2026-10-19 - open-source tool for exploring and iterating on data for artificial intelligence projects \[GitHub, 4992 stars]
-* ⭐ [whylogs](https://github.com/whylabs/whylogs) ⭐ 2,835 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2025-01-10 - open source standard for data and ML logging \[GitHub, 2819 stars]
-* ⭐ [MLRun](https://github.com/mlrun/mlrun) ⭐ 1,704 | 🐛 126 | 🌐 Python | 📅 2026-10-19 - Machine Learning automation and tracking \[GitHub, 1670 stars]
+* ⭐ [Rubrix](https://github.com/recognai/rubrix) ⭐ 5,166 | 🐛 38 | 🌐 Python | 📅 2026-10-19 - open-source tool for exploring and iterating on data for artificial intelligence projects \[GitHub, 4992 stars]
+* ⭐ [whylogs](https://github.com/whylabs/whylogs) ⭐ 2,836 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2025-01-10 - open source standard for data and ML logging \[GitHub, 2819 stars]
+* ⭐ [MLRun](https://github.com/mlrun/mlrun) ⭐ 1,704 | 🐛 127 | 🌐 Python | 📅 2026-10-20 - Machine Learning automation and tracking \[GitHub, 1670 stars]
 * ⭐ [Arize AI](https://arize.com/) - embedding drift monitoring for NLP models
 * ⭐ [Arize-Phoenix](https://phoenix.arize.com/) - ML observability for LLMs, vision, language, and tabular models
 * 🔱 [DataRobot MLOps](https://www.datarobot.com/platform/mlops/) - DataRobot MLOps provides a center of excellence for your production AI
@@ -570,7 +570,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 ##### Model Centric
 
-* ⭐ [Evidently AI](https://evidentlyai.com/) - tools to analyze and monitor machine learning models \[Free and Open Source] [Link to GitHub](https://github.com/evidentlyai/evidently) ⭐ 7,999 | 🐛 336 | 🌐 Jupyter Notebook | 📅 2026-09-29
+* ⭐ [Evidently AI](https://evidentlyai.com/) - tools to analyze and monitor machine learning models \[Free and Open Source] [Link to GitHub](https://github.com/evidentlyai/evidently) ⭐ 8,000 | 🐛 342 | 🌐 Jupyter Notebook | 📅 2026-09-29
 * 🔱 [Algorithmia](https://algorithmia.com/) - minimize risk with advanced reporting and enterprise-grade security and governance across all data, models, and infrastructure \[Paid Service]
 * 🔱 [Dataiku](https://www.dataiku.com/) - dataiku is for teams who want to deliver advanced analytics using the latest techniques at big data scale \[Paid Service]
 * 🔱 [Fiddler](https://www.fiddler.ai/) - All-in-one ML and LLM observability. Fastest LLM Guardrails.  \[Paid Service]
@@ -589,7 +589,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 #### Feature Stores
 
-* ⭐ [FEAST](https://github.com/feast-dev/feast) ⭐ 7,337 | 🐛 491 | 🌐 Python | 📅 2026-10-19 - open source feature store for machine learning [Website](https://feast.dev/) \[GitHub, 7063 stars]
+* ⭐ [FEAST](https://github.com/feast-dev/feast) ⭐ 7,339 | 🐛 499 | 🌐 Python | 📅 2026-10-19 - open source feature store for machine learning [Website](https://feast.dev/) \[GitHub, 7063 stars]
 * 🔱 [Tecton](https://www.tecton.ai//) - enterprise feature store for machine learning \[Paid Service]
 * 🔱 [Hopsworks Feature Store](https://www.hopsworks.ai/feature-store) - data management system for managing machine learning features \[Paid Service]
 
@@ -600,9 +600,9 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 #### MLOps Frameworks
 
-* ⭐ [kedro](https://github.com/quantumblacklabs/kedro) ⭐ 11,028 | 🐛 126 | 🌐 Python | 📅 2026-10-19 - Python framework for creating reproducible, maintainable and modular data science code \[GitHub, 10867 stars]
-* ⭐ [Metaflow](https://github.com/Netflix/metaflow) ⭐ 10,309 | 🐛 530 | 🌐 Python | 📅 2026-10-16 - human-friendly Python/R library that helps scientists and engineers build and manage real-life data science projects \[GitHub, 10111 stars]
-* ⭐ [ZenML](https://github.com/maiot-io/zenml) ⭐ 5,620 | 🐛 169 | 🌐 Python | 📅 2026-10-19 - MLOps framework to create reproducible ML pipelines for production machine learning \[GitHub, 5429 stars]
+* ⭐ [kedro](https://github.com/quantumblacklabs/kedro) ⭐ 11,029 | 🐛 127 | 🌐 Python | 📅 2026-10-19 - Python framework for creating reproducible, maintainable and modular data science code \[GitHub, 10867 stars]
+* ⭐ [Metaflow](https://github.com/Netflix/metaflow) ⭐ 10,308 | 🐛 530 | 🌐 Python | 📅 2026-10-16 - human-friendly Python/R library that helps scientists and engineers build and manage real-life data science projects \[GitHub, 10111 stars]
+* ⭐ [ZenML](https://github.com/maiot-io/zenml) ⭐ 5,621 | 🐛 172 | 🌐 Python | 📅 2026-10-21 - MLOps framework to create reproducible ML pipelines for production machine learning \[GitHub, 5429 stars]
 * ⭐ [Seldon Core](https://github.com/SeldonIO/seldon-core) ⭐ 4,785 | 🐛 396 | 🌐 Go | 📅 2026-03-23 - MLOps framework to package, deploy, monitor and manage thousands of production machine learning models \[GitHub, 4752 stars]
 * ⭐ [Diffgram](https://github.com/diffgram/diffgram) ⭐ 1,911 | 🐛 489 | 🌐 Python | 📅 2026-06-22 - Complete training data platform for machine learning delivered as a single application \[GitHub, 1904 stars]
 * 🔱 [Google Vertex AI](https://cloud.google.com/vertex-ai) - build, deploy, and scale ML models faster, with pre-trained and custom tooling within a unified AI platform \[Paid Service]
@@ -630,22 +630,22 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 ### Embeddings as a Service
 
-* ⭐ [Bert-as-service](https://github.com/hanxiao/bert-as-service) ⭐ 12,832 | 🐛 304 | 🌐 Python | 📅 2024-01-23 \[GitHub, 12830 stars]
+* ⭐ [Bert-as-service](https://github.com/hanxiao/bert-as-service) ⭐ 12,831 | 🐛 304 | 🌐 Python | 📅 2024-01-23 \[GitHub, 12830 stars]
 * ⭐ [embedding-as-service](https://github.com/amansrivastava17/embedding-as-service) ⭐ 211 | 🐛 20 | 🌐 Python | 📅 2023-05-22 \[GitHub, 210 stars]
 
 ### NLP Recipes Industrial Applications:
 
 * ⭐ [NLP Recipes](https://github.com/microsoft/nlp-recipes) ⚠️ Archived by [microsoft](https://github.com/microsoft) \[GitHub, 6438 stars]
-* ⭐ [NLP with Python](https://github.com/susanli2016/NLP-with-Python) ⭐ 2,797 | 🐛 36 | 🌐 Jupyter Notebook | 📅 2024-03-28 by [susanli2016](https://github.com/susanli2016) \[GitHub, 2790 stars]
+* ⭐ [NLP with Python](https://github.com/susanli2016/NLP-with-Python) ⭐ 2,796 | 🐛 36 | 🌐 Jupyter Notebook | 📅 2024-03-28 by [susanli2016](https://github.com/susanli2016) \[GitHub, 2790 stars]
 * ⭐ [Basic Utilities for PyTorch NLP](https://github.com/PetrochukM/PyTorch-NLP) ⚠️ Archived by [PetrochukM](https://github.com/PetrochukM) \[GitHub, 2229 stars]
 
 ### NLP Applications in Bio, Finance, Legal and other industries
 
 * ⭐ [Sci spaCy](https://github.com/allenai/scispacy) ⭐ 1,996 | 🐛 58 | 🌐 Python | 📅 2025-12-04 - spaCy pipeline and models for scientific/biomedical documents \[GitHub, 1960 stars]
-* ⭐ [NerDL and NerCRF](https://github.com/JohnSnowLabs/spark-nlp-workshop/blob/master/tutorials/blogposts/data_prep.ipynb) ⭐ 1,087 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2026-10-19 - Tutorial on Named Entity Recognition for Healthcare with SparkNLP
+* ⭐ [NerDL and NerCRF](https://github.com/JohnSnowLabs/spark-nlp-workshop/blob/master/tutorials/blogposts/data_prep.ipynb) ⭐ 1,087 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2026-10-20 - Tutorial on Named Entity Recognition for Healthcare with SparkNLP
 * ⭐ [LexNLP](https://github.com/LexPredict/lexpredict-lexnlp) ⭐ 794 | 🐛 52 | 🌐 Jupyter Notebook | 📅 2024-05-27 - Information retrieval and extraction for real, unstructured legal text \[GitHub, 781 stars]
 * ⭐ [Legal Text Analytics](https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics) ⭐ 741 | 🐛 0 | 📅 2026-10-10 - A list of selected resources dedicated to Legal Text Analytics \[GitHub, 720 stars]
-* ⭐ [Blackstone](https://github.com/ICLRandD/Blackstone) ⭐ 700 | 🐛 13 | 🌐 Python | 📅 2024-07-16 - A spaCy pipeline and model for NLP on unstructured legal text \[GitHub, 689 stars]
+* ⭐ [Blackstone](https://github.com/ICLRandD/Blackstone) ⭐ 701 | 🐛 13 | 🌐 Python | 📅 2024-07-16 - A spaCy pipeline and model for NLP on unstructured legal text \[GitHub, 689 stars]
 * ⭐ [BioIE](https://github.com/caufieldjh/awesome-bioie) ⭐ 469 | 🐛 9 | 📅 2026-05-26 - A curated list of resources relevant to doing Biomedical Information Extraction \[GitHub, 441 stars]
 * ⭐ [FinBERT: Pre-Trained on SEC Filings for Financial NLP Tasks](https://github.com/psnonis/FinBERT) ⭐ 204 | 🐛 4 | 🌐 C++ | 📅 2020-05-19 \[GitHub, 204 stars]
 
@@ -659,8 +659,8 @@ Additionally, there are two more components that are not as prevalent for NLP an
 ### General Speech Recognition
 
 * ⭐ [DeepSpeech](https://github.com/mozilla/DeepSpeech) ⚠️ Archived - Baidu's DeepSpeech architecture \[GitHub, 26750 stars]
-* ⭐ [kaldi](https://github.com/kaldi-asr/kaldi) ⭐ 15,504 | 🐛 262 | 🌐 Shell | 📅 2025-09-22 - Kaldi is a toolkit for speech recognition \[GitHub, 15401 stars]
-* ⭐ [ESPnet](https://github.com/espnet/espnet) ⭐ 9,991 | 🐛 90 | 🌐 Python | 📅 2026-10-19 - End-to-End Speech Processing Toolkit \[GitHub, 9850 stars]
+* ⭐ [kaldi](https://github.com/kaldi-asr/kaldi) ⭐ 15,505 | 🐛 262 | 🌐 Shell | 📅 2025-09-22 - Kaldi is a toolkit for speech recognition \[GitHub, 15401 stars]
+* ⭐ [ESPnet](https://github.com/espnet/espnet) ⭐ 9,993 | 🐛 91 | 🌐 Python | 📅 2026-10-20 - End-to-End Speech Processing Toolkit \[GitHub, 9850 stars]
 * ⭐ [wav2letter](https://github.com/facebookresearch/wav2letter) ⭐ 6,440 | 🐛 107 | 🌐 C++ | 📅 2026-08-28 - Automatic Speech Recognition Toolkit \[GitHub, 6444 stars]
 * ⭐ [awesome-kaldi](https://github.com/YoavRamon/awesome-kaldi) ⭐ 535 | 🐛 2 | 📅 2022-02-09 - resources for using Kaldi \[GitHub, 538 stars]
 * 📙 [Acoustic Word Embeddings](https://medium.com/@maobedkova/acoustic-word-embeddings-fc3f1a8f0519) by Maria Obedkova \[Blog, 2020]
@@ -668,14 +668,14 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 ### Text to Speech / Speech Generation
 
-* ⭐ [TTS](https://github.com/coqui-ai/TTS) ⭐ 46,139 | 🐛 3 | 🌐 Python | 📅 2024-08-16 - a deep learning toolkit for Text-to-Speech \[GitHub, 45454 stars]
+* ⭐ [TTS](https://github.com/coqui-ai/TTS) ⭐ 46,142 | 🐛 3 | 🌐 Python | 📅 2024-08-16 - a deep learning toolkit for Text-to-Speech \[GitHub, 45454 stars]
 * ⭐ [FastSpeech](https://github.com/xcmyz/FastSpeech) ⭐ 884 | 🐛 14 | 🌐 Python | 📅 2023-07-06 - The Implementation of FastSpeech based on pytorch \[GitHub, 880 stars]
 * 🔱 [NotebookLM](https://notebooklm.google/) - Google Gemini powered personal assistant / podcast generator
 
 ### Speech to Text
 
-* ⭐ [whisper](https://github.com/openai/whisper) ⭐ 110,899 | 🐛 175 | 🌐 Python | 📅 2026-08-31 - Robust Speech Recognition via Large-Scale Weak Supervision, by OpenAI \[GitHub, 101153 stars]
-* ⭐ [vibe](https://github.com/thewh1teagle/vibe) ⭐ 7,835 | 🐛 234 | 🌐 TypeScript | 📅 2026-10-06 - GUI tool to work with whisper, multilingual and cuda support included \[GitHub, 6317 stars]
+* ⭐ [whisper](https://github.com/openai/whisper) ⭐ 110,964 | 🐛 175 | 🌐 Python | 📅 2026-08-31 - Robust Speech Recognition via Large-Scale Weak Supervision, by OpenAI \[GitHub, 101153 stars]
+* ⭐ [vibe](https://github.com/thewh1teagle/vibe) ⭐ 7,847 | 🐛 237 | 🌐 TypeScript | 📅 2026-10-06 - GUI tool to work with whisper, multilingual and cuda support included \[GitHub, 6317 stars]
 
 ### Datasets
 
@@ -695,15 +695,15 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 ### Frameworks for Topic Modeling
 
-* ⭐ [gensim](https://github.com/RaRe-Technologies/gensim) ⭐ 16,503 | 🐛 440 | 🌐 Python | 📅 2025-11-01 - framework for topic modeling \[GitHub, 16421 stars]
+* ⭐ [gensim](https://github.com/RaRe-Technologies/gensim) ⭐ 16,505 | 🐛 442 | 🌐 Python | 📅 2025-11-01 - framework for topic modeling \[GitHub, 16421 stars]
 * ⭐ [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp) ⭐ 4,160 | 🐛 35 | 🌐 Scala | 📅 2026-10-14 \[GitHub, 4131 stars]
 
 ### Repositories
 
-* ⭐ [BERTopic](https://github.com/MaartenGr/BERTopic) ⭐ 7,900 | 🐛 477 | 🌐 Python | 📅 2026-10-19 - Leveraging BERT and a class-based TF-IDF to create easily interpretable topics \[GitHub, 7655 stars]
+* ⭐ [BERTopic](https://github.com/MaartenGr/BERTopic) ⭐ 7,902 | 🐛 477 | 🌐 Python | 📅 2026-10-20 - Leveraging BERT and a class-based TF-IDF to create easily interpretable topics \[GitHub, 7655 stars]
 * ⭐ [Top2Vec](https://github.com/ddangelov/Top2Vec) ⭐ 3,113 | 🐛 84 | 🌐 Python | 📅 2024-11-14 \[GitHub, 3107 stars]
 * ⭐ [Contextualized Topic Models](https://github.com/MilaNLProc/contextualized-topic-models) ⭐ 1,274 | 🐛 11 | 🌐 Python | 📅 2025-07-24 \[GitHub, 1269 stars]
-* ⭐ [OCTIS](https://github.com/MIND-Lab/OCTIS) ⭐ 805 | 🐛 46 | 🌐 Python | 📅 2026-06-21 - A python package to optimize and evaluate topic models \[GitHub, 802 stars]
+* ⭐ [OCTIS](https://github.com/MIND-Lab/OCTIS) ⭐ 806 | 🐛 46 | 🌐 Python | 📅 2026-06-21 - A python package to optimize and evaluate topic models \[GitHub, 802 stars]
 * ⭐ [Topic Modeling in Embedding Spaces](https://github.com/adjidieng/ETM) ⭐ 559 | 🐛 32 | 🌐 Python | 📅 2023-10-03 \[GitHub, 561 stars] [Paper](https://arxiv.org/abs/1907.04907)
 * ⭐ [GSDMM](https://github.com/rwalk/gsdmm) ⭐ 360 | 🐛 11 | 🌐 Python | 📅 2022-12-28 - GSDMM: Short text clustering \[GitHub, 359 stars]
 * ⭐ [Anchored Correlation Explanation Topic Modeling](https://github.com/gregversteeg/CorEx) ⭐ 308 | 🐛 3 | 🌐 Python | 📅 2017-06-02 \[GitHub, 307 stars]
@@ -723,15 +723,15 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 ### RAKE - Rapid Automatic Keyword Extraction
 
-* ⭐ [yake](https://github.com/LIAAD/yake) ⭐ 1,889 | 🐛 28 | 🌐 Jupyter Notebook | 📅 2026-02-11 - Single-document unsupervised keyword extraction \[GitHub, 1861 stars]
+* ⭐ [yake](https://github.com/LIAAD/yake) ⭐ 1,890 | 🐛 28 | 🌐 Jupyter Notebook | 📅 2026-02-11 - Single-document unsupervised keyword extraction \[GitHub, 1861 stars]
 * ⭐ [rake-nltk](https://github.com/csurfer/rake-nltk) ⭐ 1,084 | 🐛 26 | 🌐 Python | 📅 2022-12-09 - Rapid Automatic Keyword Extraction algorithm using NLTK \[GitHub, 1084 stars]
 * ⭐ [rake-nltk](https://github.com/csurfer/rake-nltk) ⭐ 1,084 | 🐛 26 | 🌐 Python | 📅 2022-12-09 - Rapid Automatic Keyword Extraction algorithm using NLTK \[GitHub, 1084 stars]
 * ⭐ [RAKE-tutorial](https://github.com/zelandiya/RAKE-tutorial) ⭐ 371 | 🐛 3 | 🌐 Python | 📅 2018-03-14 - A python implementation of the Rapid Automatic Keyword Extraction \[GitHub, 372 stars]
 
 ### Other Approaches
 
-* ⭐ [flashtext](https://github.com/vi3k6i5/flashtext) ⭐ 5,705 | 🐛 74 | 🌐 Python | 📅 2025-04-13 - Extract Keywords from sentence or Replace keywords in sentences \[GitHub, 5714 stars]
-* ⭐ [keyBERT](https://github.com/MaartenGr/KeyBERT) ⭐ 4,222 | 🐛 77 | 🌐 Python | 📅 2026-08-25 - Minimal keyword extraction with BERT \[GitHub, 4182 stars]
+* ⭐ [flashtext](https://github.com/vi3k6i5/flashtext) ⭐ 5,708 | 🐛 76 | 🌐 Python | 📅 2025-04-13 - Extract Keywords from sentence or Replace keywords in sentences \[GitHub, 5714 stars]
+* ⭐ [keyBERT](https://github.com/MaartenGr/KeyBERT) ⭐ 4,223 | 🐛 77 | 🌐 Python | 📅 2026-08-25 - Minimal keyword extraction with BERT \[GitHub, 4182 stars]
 * ⭐ [KeyphraseVectorizers](https://github.com/TimSchopf/KeyphraseVectorizers) ⭐ 269 | 🐛 9 | 🌐 Python | 📅 2024-11-08 - vectorizers that extract keyphrases with part-of-speech patterns  \[GitHub, 267 stars]
 * ⭐ [BERT-Keyword-Extractor](https://github.com/ibatra/BERT-Keyword-Extractor) ⭐ 261 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2022-02-21 - Deep Keyphrase Extraction using BERT \[GitHub, 261 stars]
 
@@ -781,7 +781,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 ### Adversarial Attacks for NLP
 
-* ⭐ [DeepWordBug](https://github.com/QData/deepWordBug) ⭐ 94 | 🐛 1 | 🌐 Python | 📅 2023-05-01 - Generation of Adversarial Text Sequences to Evade Deep Learning Classifiers \[GitHub, 85 stars]
+* ⭐ [DeepWordBug](https://github.com/QData/deepWordBug) ⭐ 95 | 🐛 1 | 🌐 Python | 📅 2023-05-01 - Generation of Adversarial Text Sequences to Evade Deep Learning Classifiers \[GitHub, 85 stars]
 * ⭐ [Adversarial-Misspellings](https://github.com/danishpruthi/Adversarial-Misspellings) ⭐ 64 | 🐛 0 | 🌐 Python | 📅 2022-04-11 - Combating Adversarial Misspellings with Robust Word Recognition \[GitHub, 64 stars]
 * 📙 [Privacy Considerations in Large Language Models](https://ai.googleblog.com/2020/12/privacy-considerations-in-large.html?m=1) \[Blog, Dec 2020]
 
@@ -802,13 +802,13 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 ### General Purpose
 
-* ⭐ [spaCy](https://github.com/explosion/spaCy) ⭐ 33,973 | 🐛 253 | 🌐 Python | 📅 2026-10-12 by Explosion AI \[GitHub, 33624 stars]
-* ⭐ [gensim](https://github.com/RaRe-Technologies/gensim) ⭐ 16,503 | 🐛 440 | 🌐 Python | 📅 2025-11-01 - framework for topic modeling \[GitHub, 16421 stars]
-* ⭐ [nltk](https://github.com/nltk/nltk) ⭐ 14,745 | 🐛 216 | 🌐 Python | 📅 2026-10-20 \[GitHub, 14634 stars]
-* ⭐ [flair](https://github.com/flairNLP/flair) ⭐ 14,394 | 🐛 33 | 🌐 Python | 📅 2026-10-19 by Zalando \[GitHub, 14377 stars]
+* ⭐ [spaCy](https://github.com/explosion/spaCy) ⭐ 33,978 | 🐛 253 | 🌐 Python | 📅 2026-10-12 by Explosion AI \[GitHub, 33624 stars]
+* ⭐ [gensim](https://github.com/RaRe-Technologies/gensim) ⭐ 16,505 | 🐛 442 | 🌐 Python | 📅 2025-11-01 - framework for topic modeling \[GitHub, 16421 stars]
+* ⭐ [nltk](https://github.com/nltk/nltk) ⭐ 14,748 | 🐛 214 | 🌐 Python | 📅 2026-10-21 \[GitHub, 14634 stars]
+* ⭐ [flair](https://github.com/flairNLP/flair) ⭐ 14,395 | 🐛 34 | 🌐 Python | 📅 2026-10-19 by Zalando \[GitHub, 14377 stars]
 * ⭐ [AllenNLP](https://github.com/allenai/allennlp) ⚠️ Archived by AI2 \[GitHub, 11897 stars]
 * ⭐ [textblob](https://github.com/sloria/textblob) ⭐ 9,552 | 🐛 79 | 🌐 Python | 📅 2026-10-20 - TextBlob: Simplified Text Processing \[GitHub, 9536 stars]
-* ⭐ [stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,905 | 🐛 95 | 🌐 Python | 📅 2026-10-20 (former Stanford NLP) \[GitHub, 7806 stars]
+* ⭐ [stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,904 | 🐛 94 | 🌐 Python | 📅 2026-10-20 (former Stanford NLP) \[GitHub, 7806 stars]
 * ⭐ [NLP Architect](https://github.com/NervanaSystems/nlp-architect) ⚠️ Archived - A Deep Learning NLP/NLU library by Intel® AI Lab \[GitHub, 2933 stars]
 * ⭐ [TextHero](https://github.com/jbesomi/texthero) ⭐ 2,905 | 🐛 82 | 🌐 Python | 📅 2023-08-29 - Text preprocessing, representation and visualization \[GitHub, 2911 stars]
 * ⭐ [texar](https://github.com/asyml/texar) ⭐ 2,392 | 🐛 40 | 🌐 Python | 📅 2026-07-21 - Toolkit for Machine Learning, Natural Language Processing, and Text Generation, in TensorFlow \[GitHub, 2391 stars]
@@ -825,9 +825,9 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 ### Data Augmentation
 
-* ⭐ [faker](https://github.com/joke2k/faker) ⭐ 19,450 | 🐛 48 | 🌐 Python | 📅 2026-10-09 - Python package that generates fake data for you \[GitHub, 19253 stars]
+* ⭐ [faker](https://github.com/joke2k/faker) ⭐ 19,454 | 🐛 48 | 🌐 Python | 📅 2026-10-09 - Python package that generates fake data for you \[GitHub, 19253 stars]
 * ⭐ [snorkel](https://github.com/snorkel-team/snorkel) ⭐ 6,024 | 🐛 19 | 🌐 Python | 📅 2026-10-13 Framework to generate training data \[GitHub, 5970 stars]
-* ⭐ [AugLy](https://github.com/facebookresearch/AugLy) ⭐ 5,098 | 🐛 27 | 🌐 Python | 📅 2026-09-21 - data augmentations library for audio, image, text, and video \[GitHub, 5084 stars]
+* ⭐ [AugLy](https://github.com/facebookresearch/AugLy) ⭐ 5,098 | 🐛 27 | 🌐 Python | 📅 2026-10-20 - data augmentations library for audio, image, text, and video \[GitHub, 5084 stars]
 * ⭐ [NLPAug](https://github.com/makcedward/nlpaug) ⭐ 4,664 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2026-10-17 Data augmentation for NLP \[GitHub, 4657 stars]
 * ⭐ [Parrot](https://github.com/PrithivirajDamodaran/Parrot_Paraphraser) ⭐ 920 | 🐛 20 | 🌐 Python | 📅 2024-01-07 - Practical and feature-rich paraphrasing framework \[GitHub, 919 stars]
 * ⭐ [textflint](https://github.com/textflint/textflint) ⭐ 653 | 🐛 6 | 🌐 Python | 📅 2022-09-27 - Unified Multilingual Robustness Evaluation Toolkit for NLP \[GitHub, 651 stars]
@@ -837,30 +837,30 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 ### Adversarial NLP Attacks & Behavioral Testing
 
-* ⭐ [CleverHans](https://github.com/tensorflow/cleverhans) ⭐ 6,458 | 🐛 46 | 🌐 Jupyter Notebook | 📅 2024-04-10 - adversarial example library for constructing NLP attacks and building defenses \[GitHub, 6438 stars]
-* ⭐ [TextAttack](https://github.com/QData/TextAttack) ⭐ 3,477 | 🐛 21 | 🌐 Python | 📅 2026-08-15 - framework for adversarial attacks, data augmentation, and model training in NLP \[GitHub, 3427 stars]
+* ⭐ [CleverHans](https://github.com/tensorflow/cleverhans) ⭐ 6,457 | 🐛 46 | 🌐 Jupyter Notebook | 📅 2024-04-10 - adversarial example library for constructing NLP attacks and building defenses \[GitHub, 6438 stars]
+* ⭐ [TextAttack](https://github.com/QData/TextAttack) ⭐ 3,476 | 🐛 21 | 🌐 Python | 📅 2026-08-15 - framework for adversarial attacks, data augmentation, and model training in NLP \[GitHub, 3427 stars]
 * ⭐ [CheckList](https://github.com/marcotcr/checklist) ⭐ 2,051 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2024-01-09 - Beyond Accuracy: Behavioral Testing of NLP models \[GitHub, 2050 stars]
 
 ### Transformer-oriented
 
-* ⭐ [transformers](https://github.com/huggingface/transformers) ⭐ 167,878 | 🐛 2,300 | 🌐 Python | 📅 2026-10-20 by HuggingFace \[GitHub, 161166 stars]
-* ⭐ [haystack](https://github.com/deepset-ai/haystack) ⭐ 26,782 | 🐛 153 | 🌐 Python | 📅 2026-10-20 - Transformers at scale for question answering & neural search. \[GitHub, 25432 stars]
+* ⭐ [transformers](https://github.com/huggingface/transformers) ⭐ 167,930 | 🐛 970 | 🌐 Python | 📅 2026-10-21 by HuggingFace \[GitHub, 161166 stars]
+* ⭐ [haystack](https://github.com/deepset-ai/haystack) ⭐ 26,796 | 🐛 151 | 🌐 Python | 📅 2026-10-21 - Transformers at scale for question answering & neural search. \[GitHub, 25432 stars]
 * ⭐ [Adapter Hub](https://github.com/Adapter-Hub/adapter-transformers) ⭐ 2,831 | 🐛 48 | 🌐 Python | 📅 2026-04-26 and its [documentation](https://docs.adapterhub.ml/index.html) - Adapter modules for Transformers \[GitHub, 2812 stars]
 
 ### Dialogue Systems and Speech, Voice Agents
 
-* ⭐ [rasa](https://github.com/RasaHQ/rasa) ⭐ 21,354 | 🐛 159 | 🌐 Python | 📅 2026-07-24 - Framework for Conversational Agents \[GitHub, 21190 stars]
+* ⭐ [rasa](https://github.com/RasaHQ/rasa) ⭐ 21,355 | 🐛 159 | 🌐 Python | 📅 2026-07-24 - Framework for Conversational Agents \[GitHub, 21190 stars]
 * ⭐ [ChatterBot](https://github.com/gunthercox/ChatterBot) ⭐ 14,520 | 🐛 72 | 🌐 Python | 📅 2026-08-25 - conversational dialog engine for creating chatbots \[GitHub, 14488 stars]
-* ⭐ [SpeechBrain](https://github.com/speechbrain/speechbrain) ⭐ 11,889 | 🐛 187 | 🌐 Python | 📅 2026-10-14 - open-source and all-in-one speech toolkit based on PyTorch \[GitHub, 11581 stars]
+* ⭐ [SpeechBrain](https://github.com/speechbrain/speechbrain) ⭐ 11,893 | 🐛 187 | 🌐 Python | 📅 2026-10-14 - open-source and all-in-one speech toolkit based on PyTorch \[GitHub, 11581 stars]
 * ⭐ [ParlAI](https://github.com/facebookresearch/ParlAI) ⚠️ Archived by FAIR \[GitHub, 10627 stars]
-* ⭐ [DeepPavlov](https://github.com/deepmipt/DeepPavlov) ⭐ 6,998 | 🐛 56 | 🌐 Python | 📅 2025-08-06 by MIPT \[GitHub, 6986 stars]
+* ⭐ [DeepPavlov](https://github.com/deepmipt/DeepPavlov) ⭐ 6,999 | 🐛 56 | 🌐 Python | 📅 2025-08-06 by MIPT \[GitHub, 6986 stars]
 * ⭐ [wav2letter](https://github.com/facebookresearch/wav2letter) ⭐ 6,440 | 🐛 107 | 🌐 C++ | 📅 2026-08-28 - Automatic Speech Recognition Toolkit \[GitHub, 6444 stars]
 * ⭐ [gabber](https://github.com/gabber-dev/gabber) ⭐ 1,111 | 🐛 10 | 🌐 Python | 📅 2025-12-20 AI applications that can see, hear, and speak using your screens, microphones \[GitHub, 1103 stars]
 * ⭐ [dialoguefactory](https://github.com/smartinovski/dialoguefactory/tree/main) Generate continuous dialogue data in a simulated textual world \[GitHub, 5 stars]
 
 ### Word/Sentence-embeddings oriented
 
-* ⭐ [sentence-transformers](https://github.com/UKPLab/sentence-transformers) ⭐ 19,193 | 🐛 1,307 | 🌐 Python | 📅 2026-10-19 - Multilingual Sentence & Image Embeddings with BERT \[GitHub, 18765 stars]
+* ⭐ [sentence-transformers](https://github.com/UKPLab/sentence-transformers) ⭐ 19,201 | 🐛 1,306 | 🌐 Python | 📅 2026-10-20 - Multilingual Sentence & Image Embeddings with BERT \[GitHub, 18765 stars]
 * ⭐ [MUSE](https://github.com/facebookresearch/MUSE) ⚠️ Archived A library for Multilingual Unsupervised or Supervised word Embeddings \[GitHub, 3246 stars]
 * ⭐ [vecmap](https://github.com/artetxem/vecmap) ⭐ 654 | 🐛 15 | 🌐 Python | 📅 2023-04-22 A framework to learn cross-lingual word embedding mappings \[GitHub, 654 stars]
 
@@ -874,8 +874,8 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 ### Morphology
 
-* ⭐ [Inflect](https://github.com/jaraco/inflect) ⭐ 1,082 | 🐛 72 | 🌐 Python | 📅 2026-10-17 - generate plurals, ordinals, indefinite articles \[GitHub, 1076 stars]
-* ⭐ [simplemma](https://github.com/jaraco/inflect) ⭐ 1,082 | 🐛 72 | 🌐 Python | 📅 2026-10-17 - simple multilingual lemmatizer for Python \[GitHub, 1076 stars]
+* ⭐ [Inflect](https://github.com/jaraco/inflect) ⭐ 1,082 | 🐛 34 | 🌐 Python | 📅 2026-10-21 - generate plurals, ordinals, indefinite articles \[GitHub, 1076 stars]
+* ⭐ [simplemma](https://github.com/jaraco/inflect) ⭐ 1,082 | 🐛 34 | 🌐 Python | 📅 2026-10-21 - simple multilingual lemmatizer for Python \[GitHub, 1076 stars]
 * ⭐ [LemmInflect](https://github.com/bjascob/LemmInflect) ⭐ 290 | 🐛 6 | 🌐 Python | 📅 2023-09-14 - python module for English lemmatization and inflection \[GitHub, 280 stars]
 
 ### Multi-lingual tools
@@ -890,18 +890,18 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 ### Machine Translation
 
-* ⭐ [argos-translate](https://github.com/argosopentech/argos-translate) ⭐ 6,580 | 🐛 165 | 🌐 Python | 📅 2026-08-08 - Open source neural machine translation in Python \[GitHub, 6092 stars]
-* ⭐ [CTranslate2](https://github.com/OpenNMT/CTranslate2) ⭐ 4,713 | 🐛 281 | 🌐 C++ | 📅 2026-10-19 - CTranslate2 end-to-end machine translation \[GitHub, 4507 stars]
+* ⭐ [argos-translate](https://github.com/argosopentech/argos-translate) ⭐ 6,584 | 🐛 165 | 🌐 Python | 📅 2026-08-08 - Open source neural machine translation in Python \[GitHub, 6092 stars]
+* ⭐ [CTranslate2](https://github.com/OpenNMT/CTranslate2) ⭐ 4,713 | 🐛 281 | 🌐 C++ | 📅 2026-10-21 - CTranslate2 end-to-end machine translation \[GitHub, 4507 stars]
 * ⭐ [marian-nmt](https://github.com/marian-nmt/marian) ⭐ 1,474 | 🐛 97 | 🌐 C++ | 📅 2023-08-25 - Fast Neural Machine Translation in C++ \[GitHub, 1449 stars]
-* ⭐ [Opus-MT](https://github.com/Helsinki-NLP/Opus-MT) ⭐ 868 | 🐛 57 | 🌐 Python | 📅 2026-02-23 - Open neural machine translation models and web services \[GitHub, 819 stars]
-* ⭐ [COMET](https://github.com/Unbabel/COMET) ⭐ 784 | 🐛 67 | 🌐 Python | 📅 2026-04-21 -A Neural Framework for MT Evaluation \[GitHub, 756 stars]
+* ⭐ [Opus-MT](https://github.com/Helsinki-NLP/Opus-MT) ⭐ 870 | 🐛 57 | 🌐 Python | 📅 2026-02-23 - Open neural machine translation models and web services \[GitHub, 819 stars]
+* ⭐ [COMET](https://github.com/Unbabel/COMET) ⭐ 785 | 🐛 67 | 🌐 Python | 📅 2026-04-21 -A Neural Framework for MT Evaluation \[GitHub, 756 stars]
 * ⭐ [dl-translate](https://github.com/xhlulu/dl-translate) ⭐ 502 | 🐛 3 | 🌐 Python | 📅 2024-09-02 - A deep learning-based translation library built on Huggingface transformers \[GitHub, 497 stars]
 
 ### Entity and String Matching
 
 * ⭐ [bge-m3](https://huggingface.co/BAAI/bge-m3) - BGE-M3 hybrid retrieval + re-ranking [GitHub](https://github.com/FlagOpen/FlagEmbedding/tree/master/FlagEmbedding) ⭐ 12,260 | 🐛 924 | 🌐 Python | 📅 2026-08-24 \[GitHub, 11753 stars]
 * ⭐ [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) ⚠️ Archived - Fuzzy String Matching in Python \[GitHub, 9259 stars]
-* ⭐ [textdistance](https://github.com/life4/textdistance) ⭐ 3,543 | 🐛 12 | 🌐 Python | 📅 2025-04-18 - Compute distance between sequences \[GitHub, 3534 stars]
+* ⭐ [textdistance](https://github.com/life4/textdistance) ⭐ 3,544 | 🐛 12 | 🌐 Python | 📅 2025-04-18 - Compute distance between sequences \[GitHub, 3534 stars]
 * ⭐ [jellyfish](https://github.com/jamesturk/jellyfish) ⭐ 2,232 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2026-10-16 - approximate and phonetic matching of strings \[GitHub, 2215 stars]
 * ⭐ [pyahocorasick](https://github.com/WojciechMula/pyahocorasick) ⭐ 1,132 | 🐛 40 | 🌐 C | 📅 2026-04-27 - Python module implementing Aho-Corasick algorithm for string matching \[GitHub, 1104 stars]
 * ⭐ [PolyFuzz](https://github.com/MaartenGr/PolyFuzz) ⭐ 804 | 🐛 32 | 🌐 Python | 📅 2025-07-10 - Fuzzy string matching, grouping, and evaluation \[GitHub, 797 stars]
@@ -935,7 +935,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * ⭐ [kuromoji](https://github.com/atilika/kuromoji) ⭐ 1,064 | 🐛 31 | 🌐 Java | 📅 2023-01-23 - self-contained and very easy to use Japanese morphological analyzer designed for search \[GitHub, 1043 stars]
 * ⭐ [Ginza](https://github.com/megagonlabs/ginza) ⭐ 873 | 🐛 6 | 🌐 Python | 📅 2026-09-30 - Japanese NLP Library using spaCy as framework based on Universal Dependencies \[GitHub, 854 stars]
 * ⭐ [fugashi](https://github.com/polm/fugashi) ⭐ 535 | 🐛 12 | 🌐 C++ | 📅 2025-10-24 - Cython MeCab wrapper for fast, pythonic Japanese tokenization and morphological analysis \[GitHub, 521 stars]
-* ⭐ [RakutenMA](https://github.com/rakuten-nlp/rakutenma) ⭐ 471 | 🐛 8 | 🌐 JavaScript | 📅 2019-02-02 - morphological analyzer (word segmentor + PoS Tagger) for Chinese and Japanese written purely in JavaScript \[GitHub, 472 stars]
+* ⭐ [RakutenMA](https://github.com/rakuten-nlp/rakutenma) ⭐ 470 | 🐛 8 | 🌐 JavaScript | 📅 2019-02-02 - morphological analyzer (word segmentor + PoS Tagger) for Chinese and Japanese written purely in JavaScript \[GitHub, 472 stars]
 * ⭐ [SudachiPy](https://github.com/WorksApplications/SudachiPy) ⚠️ Archived - SudachiPy is a Python version of Sudachi, a Japanese morphological analyzer \[GitHub, 437 stars]
 * ⭐ [nagisa](https://github.com/taishi-i/nagisa) ⭐ 422 | 🐛 2 | 🌐 Python | 📅 2026-09-22 - Japanese tokenizer based on recurrent neural networks \[GitHub, 417 stars]
 * ⭐ [Juman++](https://github.com/ku-nlp/jumanpp) ⭐ 413 | 🐛 30 | 🌐 C++ | 📅 2026-10-13 - Juman++ (a Morphological Analyzer Toolkit) \[GitHub, 414 stars]
@@ -961,16 +961,16 @@ Additionally, there are two more components that are not as prevalent for NLP an
 #### Other
 
 * ⭐ [Kashgari](https://github.com/BrikerMan/Kashgari) ⭐ 2,381 | 🐛 28 | 🌐 Python | 📅 2024-09-03 Transfer Learning with focus on Chinese \[GitHub, 2384 stars]
-* ⭐ [Underthesea](https://github.com/undertheseanlp/underthesea) ⭐ 1,806 | 🐛 51 | 🌐 Python | 📅 2026-10-18 - Vietnamese NLP Toolkit \[GitHub, 1737 stars]
+* ⭐ [Underthesea](https://github.com/undertheseanlp/underthesea) ⭐ 1,807 | 🐛 53 | 🌐 Python | 📅 2026-10-20 - Vietnamese NLP Toolkit \[GitHub, 1737 stars]
 * ⭐ [textblob-de](https://github.com/markuskiller/textblob-de) ⭐ 103 | 🐛 11 | 🌐 Python | 📅 2025-01-07 - TextBlob: Simplified Text Processing for German \[GitHub, 103 stars]
 * ⭐ [PTT5](https://github.com/unicamp-dl/PTT5) ⭐ 90 | 🐛 9 | 🌐 Python | 📅 2022-12-08 - Pretraining and validating the T5 model on Brazilian Portuguese data \[GitHub, 91 stars]
 
 ### Text Data Labelling & Classification
 
-* ⭐ [Doccano](https://github.com/doccano/doccano) ⭐ 10,803 | 🐛 399 | 🌐 Python | 📅 2026-04-14 - open source annotation tool for machine learning practitioners \[GitHub, 10659 stars]
+* ⭐ [Doccano](https://github.com/doccano/doccano) ⭐ 10,802 | 🐛 399 | 🌐 Python | 📅 2026-04-14 - open source annotation tool for machine learning practitioners \[GitHub, 10659 stars]
 * ⭐ [EDA](https://github.com/jasonwei20/eda_nlp) ⭐ 1,651 | 🐛 11 | 🌐 Python | 📅 2023-03-19 - Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks \[GitHub, 1652 stars]
-* ⭐ [Adala](https://github.com/HumanSignal/Adala) ⭐ 1,643 | 🐛 183 | 🌐 Python | 📅 2026-10-03 - Autonomous DAta (Labeling) Agent framework \[GitHub, 1593 stars]
-* ⭐ [Small-Text](https://github.com/webis-de/small-text) ⭐ 647 | 🐛 17 | 🌐 Python | 📅 2026-10-19 - Active Learning for Text Classifcation in Python \[GitHub, 643 stars]
+* ⭐ [Adala](https://github.com/HumanSignal/Adala) ⭐ 1,643 | 🐛 185 | 🌐 Python | 📅 2026-10-20 - Autonomous DAta (Labeling) Agent framework \[GitHub, 1593 stars]
+* ⭐ [Small-Text](https://github.com/webis-de/small-text) ⭐ 646 | 🐛 17 | 🌐 Python | 📅 2026-10-19 - Active Learning for Text Classifcation in Python \[GitHub, 643 stars]
 * 🔱 [Prodigy](https://prodi.gy/) - annotation tool powered by active learning \[Paid Service]
 
 ## ![The-NLP-Learning](./Resources/Images/pandect_learning.png)
@@ -1007,8 +1007,8 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 #### Tutorials
 
-* ⭐ [nlp-tutorial](https://github.com/graykode/nlp-tutorial) ⭐ 14,937 | 🐛 39 | 🌐 Jupyter Notebook | 📅 2024-02-21 - Natural Language Processing Tutorial for Deep Learning Researchers \[GitHub, 14901 stars]
-* ⭐ [Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials) ⭐ 11,765 | 🐛 314 | 🌐 Jupyter Notebook | 📅 2026-09-17 - demos with the Transformers library by HuggingFace \[GitHub, 11633 stars]
+* ⭐ [nlp-tutorial](https://github.com/graykode/nlp-tutorial) ⭐ 14,938 | 🐛 39 | 🌐 Jupyter Notebook | 📅 2024-02-21 - Natural Language Processing Tutorial for Deep Learning Researchers \[GitHub, 14901 stars]
+* ⭐ [Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials) ⭐ 11,766 | 🐛 314 | 🌐 Jupyter Notebook | 📅 2026-09-17 - demos with the Transformers library by HuggingFace \[GitHub, 11633 stars]
 * ⭐ [nlp-tutorial](https://github.com/lyeoni/nlp-tutorial) ⭐ 1,374 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2020-04-01 - A list of NLP(Natural Language Processing) tutorials built on PyTorch \[GitHub, 1374 stars]
 * ⭐ [Hands-On NLTK Tutorial](https://github.com/hb20007/hands-on-nltk-tutorial) ⭐ 570 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-04-17 \[GitHub, 572 stars]
 * ⭐ [Modern Practical Natural Language Processing](https://github.com/jmugan/modern_practical_nlp) ⭐ 266 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-10-12 \[GitHub, 266 stars]
@@ -1024,8 +1024,8 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 #### Tokenization
 
-* ⭐ [SentencePiece](https://github.com/google/sentencepiece) ⭐ 12,140 | 🐛 3 | 🌐 C++ | 📅 2026-10-19 - Unsupervised text tokenizer for Neural Network-based text generation \[GitHub, 11870 stars]
-* ⭐ [tokenizers](https://github.com/huggingface/tokenizers) ⭐ 11,186 | 🐛 178 | 🌐 Rust | 📅 2026-10-19 - Fast State-of-the-Art Tokenizers optimized for Research and Production \[GitHub, 10782 stars]
+* ⭐ [SentencePiece](https://github.com/google/sentencepiece) ⭐ 12,145 | 🐛 5 | 🌐 C++ | 📅 2026-10-20 - Unsupervised text tokenizer for Neural Network-based text generation \[GitHub, 11870 stars]
+* ⭐ [tokenizers](https://github.com/huggingface/tokenizers) ⭐ 11,188 | 🐛 179 | 🌐 Rust | 📅 2026-10-19 - Fast State-of-the-Art Tokenizers optimized for Research and Production \[GitHub, 10782 stars]
 * ⭐ [SoMaJo](https://github.com/tsproisl/SoMaJo) ⭐ 154 | 🐛 7 | 🌐 Python | 📅 2026-08-07 - A tokenizer and sentence splitter for German and English web and social media texts \[GitHub, 152 stars]
 
 #### Data Augmentation and Weak Supervision
@@ -1034,7 +1034,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 * ⭐ [snorkel](https://github.com/snorkel-team/snorkel) ⭐ 6,024 | 🐛 19 | 🌐 Python | 📅 2026-10-13 Framework to generate training data \[GitHub, 5970 stars]
 * ⭐ [NLPAug](https://github.com/makcedward/nlpaug) ⭐ 4,664 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2026-10-17 Data augmentation for NLP \[GitHub, 4657 stars]
-* ⭐ [TextAttack](https://github.com/QData/TextAttack) ⭐ 3,477 | 🐛 21 | 🌐 Python | 📅 2026-08-15 - framework for adversarial attacks, data augmentation, and model training in NLP \[GitHub, 3427 stars]
+* ⭐ [TextAttack](https://github.com/QData/TextAttack) ⭐ 3,476 | 🐛 21 | 🌐 Python | 📅 2026-08-15 - framework for adversarial attacks, data augmentation, and model training in NLP \[GitHub, 3427 stars]
 * ⭐ [EDA](https://github.com/jasonwei20/eda_nlp) ⭐ 1,651 | 🐛 11 | 🌐 Python | 📅 2023-03-19 - Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks \[GitHub, 1652 stars]
 * ⭐ [skweak](https://github.com/NorskRegnesentral/skweak) ⭐ 925 | 🐛 7 | 🌐 Python | 📅 2024-09-02 - software toolkit for weak supervision applied to NLP tasks \[GitHub, 927 stars]
 * ⭐ [NL-Augmenter](https://github.com/GEM-benchmark/NL-Augmenter) ⭐ 785 | 🐛 47 | 🌐 Python | 📅 2024-05-19 - Collaborative Repository of Natural Language Transformations \[GitHub, 787 stars]
@@ -1093,7 +1093,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 #### PDF Parsing
 
-* ⭐ [bentopdf](https://github.com/alam00000/bentopdf) ⭐ 16,096 | 🐛 186 | 🌐 JavaScript | 📅 2026-10-19 - A Privacy First PDF Toolkit \[GitHub, 13552 stars]
+* ⭐ [bentopdf](https://github.com/alam00000/bentopdf) ⭐ 16,106 | 🐛 189 | 🌐 JavaScript | 📅 2026-10-20 - A Privacy First PDF Toolkit \[GitHub, 13552 stars]
 * ⭐ [spacy-layout](https://github.com/explosion/spacy-layout) ⭐ 913 | 🐛 26 | 🌐 Python | 📅 2026-03-27 - Process PDFs, Word documents and more with spaCy \[GitHub, 902 stars]
 
 #### Style Transfer for NLP
@@ -1107,7 +1107,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 #### Obscene words detection
 
-* ⭐ [LDNOOBW](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) ⭐ 3,469 | 🐛 105 | 📅 2024-08-05 - List of Dirty, Naughty, Obscene, and Otherwise Bad Words \[GitHub, 3376 stars]
+* ⭐ [LDNOOBW](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) ⭐ 3,470 | 🐛 105 | 📅 2024-08-05 - List of Dirty, Naughty, Obscene, and Otherwise Bad Words \[GitHub, 3376 stars]
 
 #### Reddit Analysis
 
@@ -1123,10 +1123,10 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 #### AutoML / AutoNLP
 
-* ⭐ [Optuna](https://github.com/optuna/optuna) ⭐ 14,942 | 🐛 29 | 🌐 Python | 📅 2026-10-20 - hyperparameter optimization framework \[GitHub, 14280 stars]
+* ⭐ [Optuna](https://github.com/optuna/optuna) ⭐ 14,944 | 🐛 26 | 🌐 Python | 📅 2026-10-21 - hyperparameter optimization framework \[GitHub, 14280 stars]
 * ⭐ [TPOT](https://github.com/EpistasisLab/tpot) ⭐ 10,056 | 🐛 311 | 🌐 Jupyter Notebook | 📅 2025-09-11 - Python Automated Machine Learning tool \[GitHub, 10047 stars]
-* ⭐ [AutoNLP](https://github.com/huggingface/autonlp) ⭐ 4,612 | 🐛 4 | 🌐 Python | 📅 2026-10-06 - Faster and easier training and deployments of SOTA NLP models \[GitHub, 4574 stars]
-* ⭐ [FLAML](https://github.com/microsoft/FLAML) ⭐ 4,413 | 🐛 188 | 🌐 Jupyter Notebook | 📅 2026-10-19 - fast and lightweight AutoML library \[GitHub, 4360 stars]
+* ⭐ [AutoNLP](https://github.com/huggingface/autonlp) ⭐ 4,613 | 🐛 4 | 🌐 Python | 📅 2026-10-06 - Faster and easier training and deployments of SOTA NLP models \[GitHub, 4574 stars]
+* ⭐ [FLAML](https://github.com/microsoft/FLAML) ⭐ 4,413 | 🐛 190 | 🌐 Jupyter Notebook | 📅 2026-10-21 - fast and lightweight AutoML library \[GitHub, 4360 stars]
 * ⭐ [Auto-PyTorch](https://github.com/automl/Auto-PyTorch) ⭐ 2,541 | 🐛 75 | 🌐 Python | 📅 2024-04-09 - Automatic architecture search and hyperparameter optimization for PyTorch \[GitHub, 2534 stars]
 * ⭐ [Gradsflow](https://github.com/gradsflow/gradsflow) ⚠️ Archived - open-source AutoML & PyTorch Model Training Library \[GitHub, 307 stars]
 * ⭐ [HungaBunga](https://github.com/ypeleg/HungaBunga) ⭐ 4 | 🐛 10 | 🌐 Python | 📅 2026-08-18 - Brute-Force all sklearn models with all parameters using .fit .predict \[GitHub, 0 stars]
@@ -1200,4 +1200,4 @@ Additionally, there are two more components that are not as prevalent for NLP an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
